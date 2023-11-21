@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: true
+
+website:
+  title: "The Deep Keel"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - about.qmd
+      - playlist.qmd
+      - equipment.qmd
+  back-to-top-navigation: true
+  page-footer: 
+    left: "2013-2023, The Deep Keel"
+    background: light
+
+format:
+  html:
+    toc: true
+    theme: litera #default journal cosmo litera sketchy
+    css: styles.css
+
+date-format: full
+editor: visual
+

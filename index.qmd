@@ -1,0 +1,14 @@
+---
+title: "Practice with Metronome "
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default #table grid default
+  categories: cloud #numbered unnumbered cloud
+  #feed: true
+  sort-ui: false
+  filter-ui: false
+  #fields: [date, title, description]
+page-layout: full
+title-block-banner: false
+---
