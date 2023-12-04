@@ -53,9 +53,8 @@ Middle: 6.0\
 Master: 3.0\
 Reverb: 5.0
 
-## Microphone
+## Blue Yeti
 
-Blue Yeti\
 Gain: 9 o'clock\
 Mode: Omnidirectional, on desk near plant
 
