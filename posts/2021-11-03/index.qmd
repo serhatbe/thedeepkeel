@@ -11,4 +11,4 @@ categories:
   - Song
 ---
 
-![Theme B Amaj](theme-b-amaj.pdf)
+[Theme B Amaj](https://wordpress.com/post/lespaul18.wordpress.com/219)

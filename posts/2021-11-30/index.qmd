@@ -1,6 +1,7 @@
 ---
-title: "Für Edith 1.1"
+title: "Für Edith 1"
 date: "2021-11-30T20:37:23"
+date-modified: "2021-11-30T20:41:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -16,7 +17,7 @@ Metronome: Free
 
 ## Video
 
-{{< video https://youtu.be/6YgeCcGWMJw >}}
+{{< video https://youtu.be/O1yBu3LlMzc >}}
 
 ```         
 Gibson Les Paul

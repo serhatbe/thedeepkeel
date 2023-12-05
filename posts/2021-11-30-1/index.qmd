@@ -1,7 +1,7 @@
 ---
-title: "Für Edith 1"
+title: "Für Edith 1.1"
 date: "2021-11-30T20:37:23"
-date-modified: "2021-11-30T20:47:23"
+date-modified: "2021-11-30T21:47:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -17,9 +17,9 @@ Metronome: Free
 
 ## Video
 
-{{< video https://youtu.be/O1yBu3LlMzc >}}
+{{< video https://youtu.be/6YgeCcGWMJw >}}
 
-``` 
+```         
 Gibson Les Paul
 Body Material: Plain Maple Top with a Mahogany Body
 Fingerboard Material: Rosewood
