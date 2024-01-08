@@ -15,7 +15,7 @@ categories:
   - Chord melody
 ---
 
-Tempo: 42 bpm
+Tempo: free
 
 F6/9 F-6\
 Cmaj7 D-7 G9\
@@ -23,7 +23,7 @@ D-7 G7
 
 ## Video
 
-{{< video https://youtu.be/02X7lzSA67k >}}
+{{< video https://youtu.be/KpL-LMLWxyc >}}
 
 ## Gibson Les Paul
 
