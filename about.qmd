@@ -1,19 +1,29 @@
 ---
 title: "About"
+bibliography: references.json
 ---
 
-Kurt Vonnegut said "*Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow.*"
+## 2024
 
-Eliminate or minimize distraction. Consolidate songs and add music to next album "... from Hokkaido to Okinawa..."
+Following are the guidelines for 2024, from @denk2022
 
--   Practice diligently and relaxed
+-   Practice phrasing.
+-   Don't be a perfectionist, it's a deadly weakness.
+-   Get the mechanics of performing right by way of **correct posture, fingering and breathing**.
+-   **Learn to practice right:** Mechanics, play with your brain and discover meaning in the music you play.
+-   Listen and learn pieces well enough to describe it in your own words, use metaphors like the master [György Sebők](https://en.wikipedia.org/wiki/György_Sebők) did. When you perform the music, let your metaphors guide you.
+-   Harmony and melody are sacred but rhythm is where you can exercise your freedom.
+-   If a note is wrong, you're only one fret away from it, just shift your finger, and you've arrived at the right note.
 
--   Use metronome
+## 2023
 
--   Strive for good tone
+> Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow. - Kurt Vonnegut
 
--   Improve technique
-
--   Learn standard music notation
-
+-   Eliminate or minimize distraction.
+-   Consolidate songs and add music to next album "... from Hokkaido to Okinawa..."
+-   Practice diligently and relaxed.
+-   Use metronome.
+-   Strive for good tone.
+-   Improve technique.
+-   Learn standard music notation.
 -   The ultimate goal: To make good music at every stage of your development.
