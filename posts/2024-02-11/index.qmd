@@ -1,7 +1,7 @@
 ---
 title: "White Christmas Phrase 3"
-date: "2024-01-20T20:37:23"
-date-modified: "2024-01-21T20:37:23"
+date: "2024-02-11T20:37:23"
+#date-modified: "2024-01-21T20:37:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -15,7 +15,7 @@ categories:
   - Chord melody
 ---
 
-Tempo: 0.6x - 0.5x
+Tempo: free
 
 F6/9 F-6\
 Cmaj7 D-7 G9\
@@ -23,13 +23,7 @@ D-7 G7
 
 ## Video
 
-{{< video https://youtu.be/E91vfu58NE4 >}}
-
-{{< video https://youtu.be/6vryfeNQRn4 >}}
-
-{{< video https://youtu.be/3N_2oMeM_JQ >}}
-
-
+{{< video https://youtu.be/GLkqR7lrJew >}}
 
 ## Gibson Les Paul
 
