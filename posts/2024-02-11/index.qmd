@@ -1,5 +1,5 @@
 ---
-title: "White Christmas Phrase 3"
+title: "White Christmas Phrases 1, 2 & 3"
 date: "2024-02-11T20:37:23"
 #date-modified: "2024-01-21T20:37:23"
 format: 
@@ -17,13 +17,18 @@ categories:
 
 Tempo: free
 
-F6/9 F-6\
-Cmaj7 D-7 G9\
-D-7 G7
+Bar1: Cmaj7 Dm7 F#13\
+Bar2: Dm7 D#o Em7\
+Bar3: Fmaj7 G9\
+Bar4: Cmaj7 Eb7 Dmin11 G9sus4 G9\
+Bar5: Cmaj7 C7\
+Bar6: F6/9 F-6\
+Bar7: Cmaj7 D-7 G9\
+Bar8: D-7 G7
 
 ## Video
 
-{{< video https://youtu.be/GLkqR7lrJew >}}
+{{< video https://youtu.be/SB5lx9AnFk0 >}}
 
 ## Gibson Les Paul
 
