@@ -15,7 +15,7 @@ website:
       - equipment.qmd
   back-to-top-navigation: true
   page-footer: 
-    left: "2013-2023, The Deep Keel"
+    left: "2013-2024, The Deep Keel"
     background: light
 
 format:

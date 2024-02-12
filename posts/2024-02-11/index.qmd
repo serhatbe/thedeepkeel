@@ -17,14 +17,17 @@ categories:
 
 Tempo: free
 
+**Phrase 1**\
 Bar1: Cmaj7 Dm7 F#13\
 Bar2: Dm7 D#o Em7\
+**Phrase 2**\
 Bar3: Fmaj7 G9\
 Bar4: Cmaj7 Eb7 Dmin11 G9sus4 G9\
 Bar5: Cmaj7 C7\
+**Phrase 3**\
 Bar6: F6/9 F-6\
-Bar7: Cmaj7 D-7 G9\
-Bar8: D-7 G7
+Bar7: Cmaj7 Dm7 G9\
+Bar8: Dm7 G7
 
 ## Video
 
