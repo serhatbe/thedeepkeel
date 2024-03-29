@@ -1,0 +1,59 @@
+---
+title: "White Christmas Phrase 4"
+date: "2024-03-29T20:37:23"
+#date-modified: "2024-02-19T20:37:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - 2024
+  - Jaguar
+  - Fingerstyle
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+Tempo: free\
+\
+**Phrase 4**\
+Bar6: F∆7 B♭7 B♭9\
+Bar7: C∆7 C♯ϕ F∆7 A♭ϕ\
+Bar8: D♭∆13 C6
+
+## Video
+
+{{< video https://youtu.be/5SlRaBOJlKA >}}
+
+## Fender Jaguar
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: 33 RC Clean
+
+## Joyo Tremolo
+
+Intensity: 5%\
+Rate: 5%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 3.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}
