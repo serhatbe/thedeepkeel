@@ -1,7 +1,7 @@
 ---
 title: "White Christmas Phrase 4"
-date: "2024-03-29T20:37:23"
-#date-modified: "2024-02-19T20:37:23"
+date: "2024-03-29T15:01:23"
+date-modified: "2024-03-29T16:01:23"
 format: 
   html: default
 image: "../img/jag.jpg"
@@ -23,6 +23,8 @@ Bar7: C∆7 C♯ϕ F∆7 A♭ϕ\
 Bar8: D♭∆13 C6
 
 ## Video
+
+{{< video https://youtu.be/tNL4_o85BMc >}}
 
 {{< video https://youtu.be/5SlRaBOJlKA >}}
 
