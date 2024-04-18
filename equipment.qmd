@@ -8,8 +8,7 @@ editor:
 
 ## Fender Telecaster
 
-![Fender
-Telecaster](https://thedeepkeel.files.wordpress.com/2018/12/tele.png)
+![Fender Telecaster](posts/img/tele.png)
 
 > Modern Player guitars deliver thoroughly modern features and
 > distinctively unconventional takes on revered Fender instruments. The
@@ -67,7 +66,7 @@ Position 4. Middle and Neck Pickup, Position 5. Neck Pickup\
 
 ## Fender Mustang I v.2
 
-![Mustang](https://thedeepkeel.files.wordpress.com/2019/08/mustang.jpg)
+![Fender Mustang](posts/img/mustang.jpg)
 
 > The standard for modern guitar versatility and muscle. Mustang amps
 > are incredible Fender tone machines for today's guitarists, driven by
@@ -113,8 +112,7 @@ Amp Weight: 17 lbs (7.7 kg)
 
 ## Art & Lutherie Parlor Guitar
 
-![Art Lutherie
-Ami](https://thedeepkeel.files.wordpress.com/2018/12/art-lutherie-ami.jpg)
+![Art & Lutherie Parlor](posts/img/art-lutherie-ami.jpg)
 
 -   Body Type Ami
 -   Case Gig Bag
@@ -131,8 +129,7 @@ Ami](https://thedeepkeel.files.wordpress.com/2018/12/art-lutherie-ami.jpg)
 
 ## Fender Blues Jr III
 
-![Blues
-Jr.](https://thedeepkeel.files.wordpress.com/2018/12/bluesjr.jpg)
+![Fender Blues Jr](posts/img/bluesjr.jpg)
 
 > Fender Hot Rod series amplifiers are found on every stage in the
 > world, large and small, and are used by guitarists from all walks of
@@ -198,8 +195,7 @@ Knobs: Chicken head-style amp knobs
 
 ## Gibson Les Paul
 
-![Gibson Les
-Paul](https://thedeepkeel.files.wordpress.com/2018/12/lespaul.png)
+![Gibson Les Paul](posts/img/lespaul.png)
 
 > The Les Paul Tribute captures the historic character of the legendary
 > Les Paul guitar. Historic Gibson tonewoods, carved top, cream
@@ -282,8 +278,7 @@ LPTR18FHNH1, LPTR18SGNH1
 
 ## ZOOM Multi-FX Processor
 
-![ZOOM Multi-FX
-Processor](https://thedeepkeel.files.wordpress.com/2018/12/Zoom_G3Xn_Top.jpg){height="400"}
+![ZOOM Multi-FX Processor](posts/img/Zoom_G3Xn_Top.jpg){width="540"}
 
 **Features At A Glance**
 
@@ -317,8 +312,7 @@ Processor](https://thedeepkeel.files.wordpress.com/2018/12/Zoom_G3Xn_Top.jpg){he
 
 ## Fender Stratocaster
 
-![Fender
-Stratocaster](https://thedeepkeel.files.wordpress.com/2019/07/0147103303_gtr_frt_001_rr.jpg)
+![Fender Stratocaster](posts/img/strat 2.jpg)
 
 > A tonally versatile guitar with time-honored Fender style and sound,
 > the Deluxe Strat has a few tricks up its sleeve. Special switching
@@ -388,8 +382,7 @@ Button\
 
 ## Fender Jaguar
 
-![Fender
-Jaguar](https://thedeepkeel.files.wordpress.com/2020/11/jaguar_hh0.jpeg)
+![Fender Jaguar](posts/img/jaguar_hh0.jpeg)
 
 > Respecting their heritage while offering a modern twist on a classic,
 > Fender's Player Series Jaguar updates the popular short-scale
@@ -463,8 +456,7 @@ Headstock Face
 
 ## JOYO JF-09 TREMOLO
 
-![JOYO JF-09
-TREMOLO](https://thedeepkeel.files.wordpress.com/2021/11/61j5xsglzjl._ac_sl1000_.jpg?w=544){height="200"}
+![JOYO JF-09 TREMOLO](posts/img/JOYO.jpg){width="246"}
 
 This is the tremolo of the beloved classic tube amplifiers--using the
 same photoelectric tube circuitry as the trem in those amps of old.
@@ -474,32 +466,30 @@ varnish finish.
 
 ## Blue Yeti
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1aeri3ty3izns.cloudfront.net%2Fmedia%2F21%2F217285%2F1200%2Fpreview.jpg&f=1&nofb=1&ipt=8d392f8eec71f468425a45ccb4bf7b344d4bae51b28d1cc4338c8ea6bcacc066&ipo=images){fig-align="center"
+![Blue Yeti](posts/img/Yeti.jpg){alt="Blue Yeti" fig-align="center"
 width="388"}
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vippng.com%2Fpng%2Fdetail%2F224-2249293_blue-microphones-proprietary-tri-capsule-technology-blue-yeti.png&f=1&nofb=1&ipt=f9a4e03129160b2198ae3c7971657c36d4fa47bda5501a057d3c25adf7f64f2e&ipo=images){fig-align="center"
-width="602"}
+![](posts/img/Yeti_Diagram.jpg){fig-align="center" width="602"}
 
-Power Required/Consumption: 5V 150mA \
-Sample Rate: 48 kHz Bit Rate: 16-bit \
-Capsules: 3 Blue-proprietary 14mm condenser capsules \
-Polar Patterns: Cardioid, Bidirectional, Omnidirectional, Stereo \
-Frequency Response: 20Hz - 20kHz Max \
+Power Required/Consumption: 5V 150mA\
+Sample Rate: 48 kHz Bit Rate: 16-bit\
+Capsules: 3 Blue-proprietary 14mm condenser capsules\
+Polar Patterns: Cardioid, Bidirectional, Omnidirectional, Stereo\
+Frequency Response: 20Hz - 20kHz Max\
 Dimensions (extended in stand): 4.72" (12cm) x 4.92"(12.5cm) x
-11.61"(29.5cm) \
-Weight (microphone): 1.2 lbs (.55 kg) \
-Weight (stand): 2.2 lbs (1 kg) \
-Headphone Amplifier \
-Impedance: 16 ohms \
-Power Output (RMS): 130 mW \
-THD: 0.009% \
-Frequency Response: 15 Hz - 22 kHz \
+11.61"(29.5cm)\
+Weight (microphone): 1.2 lbs (.55 kg)\
+Weight (stand): 2.2 lbs (1 kg)\
+Headphone Amplifier\
+Impedance: 16 ohms\
+Power Output (RMS): 130 mW\
+THD: 0.009%\
+Frequency Response: 15 Hz - 22 kHz\
 Signal to Noise: 100dB
 
 ## Mac Studio
 
-![Mac
-Studio](https://www.apple.com/v/mac-studio/b/images/specs/hero__d0yd117u6qy6_large_2x.jpg)
+![Mac Studio](posts/img/mac.jpg)
 
 **Apple M1 Max chip**
 
@@ -586,8 +576,7 @@ Ethernet
 
 ## Studio Display
 
-![Apple Studio
-Display](https://www.apple.com/v/studio-display/b/images/specs/hero__fjwz2k1uofue_large_2x.jpg)
+![Apple Studio Display](posts/img/mac_disp.jpg)
 
 **5K Retina display**
 
