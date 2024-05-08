@@ -312,7 +312,7 @@ LPTR18FHNH1, LPTR18SGNH1
 
 ## Fender Stratocaster
 
-![Fender Stratocaster](posts/img/strat 2.jpg)
+![Fender Stratocaster](posts/img/strat%202.jpg)
 
 > A tonally versatile guitar with time-honored Fender style and sound,
 > the Deluxe Strat has a few tricks up its sleeve. Special switching
@@ -466,8 +466,7 @@ varnish finish.
 
 ## Blue Yeti
 
-![Blue Yeti](posts/img/Yeti.jpg){alt="Blue Yeti" fig-align="center"
-width="388"}
+![Blue Yeti](posts/img/Yeti.jpg){fig-align="center" width="388"}
 
 ![](posts/img/Yeti_Diagram.jpg){fig-align="center" width="602"}
 

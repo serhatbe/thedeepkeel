@@ -6,7 +6,7 @@ listing:
   page-size: 3
   type: default #table grid default
   categories: numbered #numbered unnumbered cloud
-  #feed: true
+  feed: true
   sort-ui: false
   filter-ui: false
   #fields: [date, title, description]
