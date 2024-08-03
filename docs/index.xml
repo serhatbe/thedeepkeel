@@ -9,8 +9,67 @@
 <link>https://serhatbe.github.io/thedeepkeel/</link>
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
-<generator>quarto-1.4.551</generator>
-<lastBuildDate>Mon, 01 Apr 2024 22:01:23 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Sat, 03 Aug 2024 22:01:23 GMT</lastBuildDate>
+<item>
+  <title>Canon in D</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-08-03/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tuning: Dropped D (Low E-string to D)</p>
+<p>Tempo: 60 bpm<br>
+</p>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/b6d30ysKi5Y" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-stratocaster" class="level2">
+<h2 class="anchored" data-anchor-id="fender-stratocaster">Fender Stratocaster</h2>
+<p>Pickup Position: 4<br>
+Master Volume: 9<br>
+Master Tone: 5</p>
+</section>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>Preset: 147 Jazz Summer</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 0%<br>
+Rate: 0%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 6.5<br>
+Bass: 6.0<br>
+Middle: 6.0<br>
+Master: 3.0<br>
+Reverb: 5.0</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 9 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XKam6mdRrBk?si=c523zzLYhdivf6dp" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2024</category>
+  <category>Stratocaster</category>
+  <category>Fingerstyle</category>
+  <category>Song</category>
+  <category>Study</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-08-03/</guid>
+  <pubDate>Sat, 03 Aug 2024 22:01:23 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/strat.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>White Christmas Phrase 4</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-04-01/</link>
@@ -1223,66 +1282,6 @@ Mode: Omnidirectional, on desk near plant</p>
   <category>Study</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-09-25/</guid>
   <pubDate>Tue, 26 Sep 2023 04:37:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>E Shuffle</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2023-09-22/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tempo: 60 bpm<br>
-Measures: 1-12</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/gIyDgGyhwjU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="les-paul" class="level2">
-<h2 class="anchored" data-anchor-id="les-paul">Les Paul</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: ~4<br>
-Master Tone: ~6</p>
-</section>
-<section id="multi-effects-processor-zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="multi-effects-processor-zoom-g3xn">Multi Effects Processor: Zoom G3Xn</h2>
-<p>Master Volume: 100<br>
-Compressor: 5, Fast, 5, 70 ON<br>
-Slab Back Delay: 20, 50, 50, Quarter note<br>
-Tremolo: Tube, 30, 50, 80 OFF</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 75%<br>
-Rate: 75%</p>
-</section>
-<section id="amplifier-fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.5<br>
-Middle: 6.5<br>
-Master: 3.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="microphone" class="level2">
-<h2 class="anchored" data-anchor-id="microphone">Microphone</h2>
-<p>Blue Yeti<br>
-Gain: 9 o’clock<br>
-Mode: Omnidirectional, on desk near plant</p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2023</category>
-  <category>Les Paul</category>
-  <category>Thump pick</category>
-  <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-09-22/</guid>
-  <pubDate>Sat, 23 Sep 2023 04:37:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
