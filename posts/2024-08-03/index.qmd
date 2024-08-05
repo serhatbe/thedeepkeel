@@ -1,7 +1,7 @@
 ---
 title: "Canon in D"
 date: "2024-08-03T15:01:23"
-#date-modified: "2024-03-31T16:01:23"
+date-modified: "2024-08-05T16:01:23"
 format: 
   html: default
 image: "../img/strat.jpg"
@@ -15,17 +15,19 @@ categories:
 
 Tuning: Dropped D (Low E-string to D)
 
-Tempo: 60 bpm\
+Tempo: 40 bpm\
 
 ## Video
+
+{{< video https://youtu.be/C0yCKtmSld0 >}}
 
 {{< video https://youtu.be/b6d30ysKi5Y >}}
 
 ## Fender Stratocaster
 
-Pickup Position: 4\
+Pickup Position: 5\
 Master Volume: 9\
-Master Tone: 5
+Master Tone: 6
 
 ## Zoom G3Xn
 
@@ -43,7 +45,7 @@ Fat: OFF\
 Treble: 6.5\
 Bass: 6.0\
 Middle: 6.0\
-Master: 3.0\
+Master: 5.0\
 Reverb: 5.0
 
 ## Blue Yeti
