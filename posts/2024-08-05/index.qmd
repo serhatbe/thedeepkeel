@@ -1,13 +1,13 @@
 ---
 title: "Canon in D"
-date: "2024-08-03T15:01:23"
-date-modified: "2024-08-05T16:01:23"
+date: "2024-08-05T15:01:23"
+#date-modified: "2024-08-05T16:01:23"
 format: 
   html: default
-image: "../img/strat.jpg"
+image: "../img/tele.jpg"
 categories:
   - 2024
-  - Stratocaster
+  - Telecaster
   - Fingerstyle
   - Song
   - Study
