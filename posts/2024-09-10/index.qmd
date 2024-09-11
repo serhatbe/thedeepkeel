@@ -18,6 +18,10 @@ Tempo: Free
 
 {{< video https://youtu.be/MIbUNSrFW5o >}}
 
+Tempo: 110 bpm
+
+{{< video https://youtu.be/BYj6jpl7e8Q >}}
+
 ## Fender Telecaster
 
 Pickup Position: 4\
