@@ -30,12 +30,12 @@ Master Tone: 6
 
 ## Zoom G3Xn
 
-Preset: 147 Jazz Summer
+**OFF**: Preset: 147 Jazz Summer
 
 ## Joyo Tremolo
 
-Intensity: 0%\
-Rate: 0%
+Intensity: 50%\
+Rate: 50%
 
 ## Fender Blues Jr. III
 
