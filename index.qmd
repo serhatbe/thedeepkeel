@@ -3,7 +3,7 @@ title: "Practice with Metronome "
 listing:
   contents: posts
   sort: "date desc"
-  page-size: 3
+  page-size: 9
   type: default #table grid default
   categories: numbered #numbered unnumbered cloud
   feed: true
