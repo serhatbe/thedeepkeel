@@ -4,10 +4,10 @@ date: "2024-08-05T15:01:23"
 #date-modified: "2024-08-05T16:01:23"
 format: 
   html: default
-image: "../img/tele.jpg"
+image: "../img/strat.jpg"
 categories:
   - 2024
-  - Telecaster
+  - Stratocaster
   - Fingerstyle
   - Song
   - Study
