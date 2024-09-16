@@ -10,7 +10,61 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 10 Sep 2024 22:01:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Sep 2024 22:01:23 GMT</lastBuildDate>
+<item>
+  <title>Canon in D</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-16/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tuning: Dropped D (Low E-string to D)</p>
+<p>Tempo: Free bpm</p>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/jpdqtxF39Gw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-telecaster" class="level2">
+<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
+<p>Pickup Position: 5<br>
+Master Volume: 9<br>
+Master Tone: 6</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 50%<br>
+Rate: 50%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 6.5<br>
+Bass: 6.0<br>
+Middle: 6.0<br>
+Master: 5.0<br>
+Reverb: 5.0</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 9 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/M1tZ9mMHUas?si=heb33NktckgRdlKw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2024</category>
+  <category>Telecaster</category>
+  <category>Fingerstyle</category>
+  <category>Song</category>
+  <category>Study</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-09-16/</guid>
+  <pubDate>Mon, 16 Sep 2024 22:01:23 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>You Ain’t Goin’ Nowhere</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-10/</link>
@@ -1227,60 +1281,6 @@ Mode: Omnidirectional, on desk near iMac</p>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-09-29/</guid>
   <pubDate>Sat, 30 Sep 2023 03:37:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>E Shuffle Fingerstyle</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2023-09-26/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tempo: 40 bpm<br>
-Measures: 1-12</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1ZNHPOPdJf4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7w-tMfZHr5g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="les-paul" class="level2">
-<h2 class="anchored" data-anchor-id="les-paul">Les Paul</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: ~6<br>
-Master Tone: ~7</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 25%</p>
-</section>
-<section id="amplifier-fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.5<br>
-Middle: 6.5<br>
-Master: 3.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="microphone" class="level2">
-<h2 class="anchored" data-anchor-id="microphone">Microphone</h2>
-<p>Blue Yeti<br>
-Gain: 9 o’clock<br>
-Mode: Omnidirectional, on desk near plant</p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2023</category>
-  <category>Les Paul</category>
-  <category>Fingerstyle</category>
-  <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-09-26/</guid>
-  <pubDate>Wed, 27 Sep 2023 04:37:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
