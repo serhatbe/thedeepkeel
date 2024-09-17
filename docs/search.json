@@ -4122,14 +4122,14 @@
     "href": "posts/2024-09-16/index.html",
     "title": "Canon in D",
     "section": "",
-    "text": "Tuning: Dropped D (Low E-string to D)\nTempo: Free bpm"
+    "text": "Tuning: Dropped D (Low E-string to D)\nTempo: 45 bpm"
   },
   {
     "objectID": "posts/2024-09-16/index.html#video",
     "href": "posts/2024-09-16/index.html#video",
     "title": "Canon in D",
     "section": "Video",
-    "text": "Video"
+    "text": "Video\n\nTempo: Free bpm"
   },
   {
     "objectID": "posts/2024-09-16/index.html#fender-telecaster",
@@ -4158,5 +4158,12 @@
     "title": "Canon in D",
     "section": "Blue Yeti",
     "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#video-1",
+    "href": "posts/2024-09-16/index.html#video-1",
+    "title": "Canon in D",
+    "section": "Video",
+    "text": "Video"
   }
 ]
