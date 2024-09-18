@@ -1,7 +1,7 @@
 ---
 title: "Canon in D"
 date: "2024-09-16T15:01:23"
-date-modified: "2024-09-17T16:01:23"
+date-modified: "2024-09-18T16:01:23"
 format: 
   html: default
 image: "../img/tele.jpg"
@@ -19,7 +19,7 @@ Tempo: 45 bpm
 
 ## Video
 
-{{< video https://youtu.be/D5FWoX2NMQE >}}
+{{< video https://youtu.be/R_5a-qAqoKU >}}
 
 Tempo: Free bpm
 
@@ -45,7 +45,7 @@ Fat: OFF\
 Treble: 6.5\
 Bass: 6.0\
 Middle: 6.0\
-Master: 5.0\
+Master: 4.5\
 Reverb: 5.0
 
 ## Blue Yeti
