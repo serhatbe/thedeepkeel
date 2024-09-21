@@ -1,7 +1,7 @@
 ---
 title: "Canon in D"
 date: "2024-09-16T15:01:23"
-date-modified: "2024-09-18T16:01:23"
+date-modified: "2024-09-20T16:01:23"
 format: 
   html: default
 image: "../img/tele.jpg"
@@ -14,6 +14,14 @@ categories:
 ---
 
 Tuning: Dropped D (Low E-string to D)
+
+Tempo: 45 bpm
+
+Bars 5-8
+
+## Video
+
+{{< video https://youtu.be/asNFTU1lTtE >}}
 
 Bars 5 & 6, free tempo
 
