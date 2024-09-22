@@ -4122,14 +4122,14 @@
     "href": "posts/2024-09-16/index.html",
     "title": "Canon in D",
     "section": "",
-    "text": "Tuning: Dropped D (Low E-string to D)\nTempo: 40 bpm\nBar 9"
+    "text": "Tuning: Dropped D (Low E-string to D)"
   },
   {
     "objectID": "posts/2024-09-16/index.html#video",
     "href": "posts/2024-09-16/index.html#video",
     "title": "Canon in D",
     "section": "Video",
-    "text": "Video\n\nTempo: 45 bpm\nBars 5-8"
+    "text": "Video"
   },
   {
     "objectID": "posts/2024-09-16/index.html#fender-telecaster",
@@ -4186,5 +4186,68 @@
     "title": "Canon in D",
     "section": "Video",
     "text": "Video"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#video-bar-9-tempo-40-bpm",
+    "href": "posts/2024-09-16/index.html#video-bar-9-tempo-40-bpm",
+    "title": "Canon in D",
+    "section": "Video Bar 9 Tempo: 40 bpm",
+    "text": "Video Bar 9 Tempo: 40 bpm"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#video-bars-5-8-tempo-45-bpm",
+    "href": "posts/2024-09-16/index.html#video-bars-5-8-tempo-45-bpm",
+    "title": "Canon in D",
+    "section": "Video Bars 5-8 Tempo: 45 bpm",
+    "text": "Video Bars 5-8 Tempo: 45 bpm"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#video-bars-5-6-free-tempo",
+    "href": "posts/2024-09-16/index.html#video-bars-5-6-free-tempo",
+    "title": "Canon in D",
+    "section": "Video Bars 5 & 6, Free Tempo",
+    "text": "Video Bars 5 & 6, Free Tempo"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#video-tempo-45-bpm",
+    "href": "posts/2024-09-16/index.html#video-tempo-45-bpm",
+    "title": "Canon in D",
+    "section": "Video Tempo: 45 bpm",
+    "text": "Video Tempo: 45 bpm\n\nTempo: Free bpm"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#bar-9-tempo-40-bpm",
+    "href": "posts/2024-09-16/index.html#bar-9-tempo-40-bpm",
+    "title": "Canon in D",
+    "section": "Bar 9 Tempo 40 bpm",
+    "text": "Bar 9 Tempo 40 bpm"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#bars-5-8-tempo-45-bpm",
+    "href": "posts/2024-09-16/index.html#bars-5-8-tempo-45-bpm",
+    "title": "Canon in D",
+    "section": "Bars 5-8 Tempo 45 bpm",
+    "text": "Bars 5-8 Tempo 45 bpm"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#bars-5-6-free-tempo",
+    "href": "posts/2024-09-16/index.html#bars-5-6-free-tempo",
+    "title": "Canon in D",
+    "section": "Bars 5 & 6 Free Tempo",
+    "text": "Bars 5 & 6 Free Tempo"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#tempo-45-bpm",
+    "href": "posts/2024-09-16/index.html#tempo-45-bpm",
+    "title": "Canon in D",
+    "section": "Tempo 45 bpm",
+    "text": "Tempo 45 bpm"
+  },
+  {
+    "objectID": "posts/2024-09-16/index.html#tempo-free-bpm",
+    "href": "posts/2024-09-16/index.html#tempo-free-bpm",
+    "title": "Canon in D",
+    "section": "Tempo Free bpm",
+    "text": "Tempo Free bpm"
   }
 ]
