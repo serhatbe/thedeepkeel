@@ -15,6 +15,14 @@ categories:
 
 Tuning: Dropped D (Low E-string to D)
 
+Tempo: 40 bpm
+
+Bar 9
+
+## Video
+
+{{< video https://youtu.be/z0hmcNu3Q6s >}}
+
 Tempo: 45 bpm
 
 Bars 5-8
