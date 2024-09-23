@@ -10,7 +10,60 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Mon, 16 Sep 2024 22:01:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Sep 2024 22:01:23 GMT</lastBuildDate>
+<item>
+  <title>Canon in D</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-22/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tuning: Dropped D (Low E-string to D)</p>
+<section id="bars-1---10-tempo-very-slow" class="level2">
+<h2 class="anchored" data-anchor-id="bars-1---10-tempo-very-slow">Bars 1 - 10 Tempo very slow</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/RBkqTgD0S7c" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-telecaster" class="level2">
+<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
+<p>Pickup Position: 5<br>
+Master Volume: 9<br>
+Master Tone: 6</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 50%<br>
+Rate: 50%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 6.5<br>
+Bass: 6.0<br>
+Middle: 6.0<br>
+Master: 4.5<br>
+Reverb: 5.0</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 9 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/M1tZ9mMHUas?si=heb33NktckgRdlKw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2024</category>
+  <category>Telecaster</category>
+  <category>Fingerstyle</category>
+  <category>Song</category>
+  <category>Study</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-09-22/</guid>
+  <pubDate>Sun, 22 Sep 2024 22:01:23 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Canon in D</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-16/</link>
@@ -20,6 +73,10 @@
 
 
 <p>Tuning: Dropped D (Low E-string to D)</p>
+<section id="bars-9-10-tempo-40-bpm" class="level2">
+<h2 class="anchored" data-anchor-id="bars-9-10-tempo-40-bpm">Bars 9 &amp; 10 Tempo 40 bpm</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3scFi2kQ3SQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
 <section id="bar-9-tempo-40-bpm" class="level2">
 <h2 class="anchored" data-anchor-id="bar-9-tempo-40-bpm">Bar 9 Tempo 40 bpm</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/z0hmcNu3Q6s" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
@@ -1226,76 +1283,6 @@ Mode: Omnidirectional, on desk near plant</p>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-10-17/</guid>
   <pubDate>Wed, 18 Oct 2023 03:37:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Trouble in Mind</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2023-09-29/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Measures: 1-7</p>
-<p>Tempo: 144 bpm [95%]</p>
-<section id="fender-jaguar" class="level2">
-<h2 class="anchored" data-anchor-id="fender-jaguar">Fender Jaguar</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: 3<br>
-Master Tone: 3</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 75%</p>
-</section>
-<section id="amplifier-fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 4.5<br>
-Bass: 7.0<br>
-Middle: 11.0<br>
-Master: 4.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="garageband" class="level2">
-<h2 class="anchored" data-anchor-id="garageband">GarageBand:</h2>
-<p>Track: Jaguar TroubleInMind<br>
-Master: Jaguar TroubleInMind</p>
-<p><a href="https://www.fretboardconfidential.com/horizontal-3-step" class="uri">https://www.fretboardconfidential.com/horizontal-3-step</a></p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/tQuX5ImxeXA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/boX2AAskrvM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/nrfUdxOzaUQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>Measures: 1-7<br>
-Tempo: 35 bpm</p>
-<section id="fender-jaguar-1" class="level3">
-<h3 class="anchored" data-anchor-id="fender-jaguar-1">Fender Jaguar</h3>
-<p>Pickup Position: Neck<br>
-Master Volume: 4<br>
-Master Tone: 3</p>
-</section>
-<section id="amplifier" class="level3">
-<h3 class="anchored" data-anchor-id="amplifier">Amplifier</h3>
-<p>Fender Mustang 1 [’59 Bassman]</p>
-</section>
-<section id="microphone" class="level3">
-<h3 class="anchored" data-anchor-id="microphone">Microphone</h3>
-<p>Blue Yeti&nbsp; Gain: 11 o’clock<br>
-Mode: Omnidirectional, on desk near iMac</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/JIaL3xpHD-E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2023</category>
-  <category>Jaguar</category>
-  <category>Fingerstyle</category>
-  <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-09-29/</guid>
-  <pubDate>Sat, 30 Sep 2023 03:37:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

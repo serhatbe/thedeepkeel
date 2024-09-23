@@ -1,7 +1,7 @@
 ---
 title: "Canon in D"
-date: "2024-09-16T15:01:23"
-date-modified: "2024-09-22T16:01:23"
+date: "2024-09-22T15:01:23"
+#date-modified: "2024-09-22T16:01:23"
 format: 
   html: default
 image: "../img/tele.jpg"
@@ -15,29 +15,9 @@ categories:
 
 Tuning: Dropped D (Low E-string to D)
 
-## Bars 9 & 10 Tempo 40 bpm
+## Bars 1 - 10 Tempo very slow
 
-{{< video https://youtu.be/3scFi2kQ3SQ >}}
-
-## Bar 9 Tempo 40 bpm
-
-{{< video https://youtu.be/z0hmcNu3Q6s >}}
-
-## Bars 5-8 Tempo 45 bpm
-
-{{< video https://youtu.be/asNFTU1lTtE >}}
-
-## Bars 5 & 6 Free Tempo
-
-{{< video https://youtu.be/C3Xmc7PVSZQ >}}
-
-## Tempo 45 bpm
-
-{{< video https://youtu.be/R_5a-qAqoKU >}}
-
-## Tempo Free bpm
-
-{{< video https://youtu.be/jpdqtxF39Gw >}}
+{{< video https://youtu.be/RBkqTgD0S7c >}}
 
 ## Fender Telecaster
 
