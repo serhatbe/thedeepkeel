@@ -22,13 +22,25 @@ Bar6: F∆7 B♭7 B♭9\
 Bar7: C∆7 C♯ϕ F∆7 A♭ϕ\
 Bar8: D♭∆13 C6
 
+
+## Phrase 4 Dead Slow
+
+{{< video https://youtu.be/68LU3zelS0Q >}}
+
+
+## Phrase 4 Second Half
+
+{{< video https://youtu.be/E_KD_92Q0c4 >}}
+
+## Phrase 4 First Half Tempo: 0.35x
+
 {{< video https://youtu.be/b3ouDTqED34 >}}
 
 ## Gibson Les Paul
 
 Pickup Position: Neck\
-Master Volume: 6\
-Master Tone: 7
+Master Volume: 5\
+Master Tone: 8
 
 ## Joyo Tremolo
 
