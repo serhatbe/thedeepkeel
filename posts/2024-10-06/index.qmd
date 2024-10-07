@@ -1,0 +1,53 @@
+---
+title: "White Christmas Phrase 4"
+date: "2024-10-06T15:01:23"
+#date-modified: "2024-10-07T16:01:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - 2024
+  - Les Paul
+  - Fingerstyle
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+Tempo: 0.35x\
+\
+**Phrase 4**\
+Bar6: F∆7 B♭7 B♭9\
+Bar7: C∆7 C♯ϕ F∆7 A♭ϕ\
+Bar8: D♭∆13 C6
+
+{{< video https://youtu.be/b3ouDTqED34 >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 7
+
+## Joyo Tremolo
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 4.5\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}
