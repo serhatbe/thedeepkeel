@@ -3,6 +3,43 @@ title: "About"
 bibliography: references.json
 ---
 
+## 2025
+
+My practice routine tailored for beginning fingerstyle jazz guitar.
+
+### Warm-up (10 minutes)
+
+- Finger Exercises: Start with chromatic scales across all strings (index, middle, ring, pinky) to improve finger independence.
+- Right-Hand Picking: Practice alternating between thumb, index, and middle fingers while plucking strings (P-I-M) on simple chord shapes.
+
+### Basic Chord Practice (15 minutes)
+
+- Focus on learning basic jazz chord shapes like major 7th, minor 7th, dominant 7th, and diminished chords:
+- Cmaj7: x35453
+- G7: 320001
+- Dm7: x57565
+- Bm7b5: x2323x
+- Practice switching between these chords smoothly while keeping a consistent rhythm with your fingerpicking hand.
+
+### Walking Bass & Melody (15 minutes)
+
+- Work on simple walking basslines combined with basic melodies. This helps develop coordination between bass and melody in a fingerstyle approach.
+- Start by playing the root notes of chords with your thumb and using your fingers to pluck the melody or fill in the harmony.
+
+### Arpeggios & Scales (15 minutes)
+
+- Practice major, minor, and pentatonic scales using fingerstyle. Focus on playing each note cleanly.
+- Learn arpeggio patterns for common jazz chords, e.g., Cmaj7 arpeggio (C-E-G-B).
+
+### Song Practice (30 minutes)
+
+- Learn the chord progression and melody to a simple jazz standard. For example “Autumn Leaves” as it has a beautiful, accessible melody and common jazz chord changes (II-V-I progressions). Practice fingerpicking the melody and bassline simultaneously.
+
+### Cool Down (5 minutes)
+
+- End with slow, relaxed fingerstyle exercises, focusing on clarity and dynamics.
+- This structure builds finger independence, jazz harmony understanding, and rhythm skills over time.
+
 ## 2024
 
 Following are the guidelines for 2024, from @denk2022
