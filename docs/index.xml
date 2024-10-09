@@ -10,7 +10,62 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Sun, 06 Oct 2024 22:01:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 08 Oct 2024 22:01:23 GMT</lastBuildDate>
+<item>
+  <title>A Modern Method for Guitar Ex.01</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-08/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="exercise-1" class="level2">
+<h2 class="anchored" data-anchor-id="exercise-1">Exercise 1</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YW0-J1n9FWo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/oNw9rlxJdBk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="gibson-les-paul" class="level2">
+<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: 5<br>
+Master Tone: 8</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 50%<br>
+Rate: 50%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 6.5<br>
+Bass: 6.0<br>
+Middle: 6.0<br>
+Master: 4.5<br>
+Reverb: 5.0</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 9 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+</section>
+<section id="lesson" class="level2">
+<h2 class="anchored" data-anchor-id="lesson">Lesson</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/xcftRG0kS_g?si=25OvTvnjob8ecxIH" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2024</category>
+  <category>Les Paul</category>
+  <category>Study</category>
+  <category>Scales</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-10-08/</guid>
+  <pubDate>Tue, 08 Oct 2024 22:01:23 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>White Christmas Phrase 4</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-06/</link>
@@ -62,6 +117,9 @@ Reverb: 5.0</p>
 <h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
 <p>Gain: 9 o’clock<br>
 Mode: Stereo, on desk near plant</p>
+</section>
+<section id="lesson" class="level2">
+<h2 class="anchored" data-anchor-id="lesson">Lesson</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
@@ -1228,74 +1286,6 @@ Master Preset: WhiteXmas</p>
   <category>Chord melody</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-10-29/</guid>
   <pubDate>Mon, 30 Oct 2023 03:37:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>White Christmas Phrase 1</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2023-10-21/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tempo: free bpm<br>
-Measures: 1-2<br>
-Bar1: Cmaj7 Dm7 F#13<br>
-Bar2: Dm7 D#o Em7</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/pO3on1IobS0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="gibson-les-paul" class="level2">
-<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: 6<br>
-Master Tone: 7<br>
-</p>
-</section>
-<section id="multi-effects-processor-zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="multi-effects-processor-zoom-g3xn">Multi Effects Processor: Zoom G3Xn</h2>
-<p>Preset 145: Archtop</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 25%</p>
-</section>
-<section id="amplifier-fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.0<br>
-Middle: 6.0<br>
-Master: 3.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="microphone-blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="microphone-blue-yeti">Microphone: Blue Yeti</h2>
-<p>Gain: 11 o’clock<br>
-Mode: Omnidirectional, on desk near plant</p>
-</section>
-<section id="garageband" class="level2">
-<h2 class="anchored" data-anchor-id="garageband"><strong>GarageBand</strong></h2>
-<p>Track Preset: WhiteXmasTrack<br>
-Master Preset: WhiteXmas</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2023</category>
-  <category>Les Paul</category>
-  <category>Fingerstyle</category>
-  <category>Song</category>
-  <category>Study</category>
-  <category>Christmas</category>
-  <category>Chord melody</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2023-10-21/</guid>
-  <pubDate>Sun, 22 Oct 2023 03:37:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

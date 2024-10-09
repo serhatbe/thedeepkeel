@@ -1,0 +1,49 @@
+---
+title: "A Modern Method for Guitar Ex.01"
+date: "2024-10-08T15:01:23"
+#date-modified: "2024-10-07T16:01:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - 2024
+  - Les Paul
+  - Study
+  - Scales
+---
+
+## Exercise 1
+
+{{< video https://youtu.be/YW0-J1n9FWo >}}
+
+{{< video https://youtu.be/oNw9rlxJdBk >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 5\
+Master Tone: 8
+
+## Joyo Tremolo
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 4.5\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson
+
+{{< video https://youtu.be/xcftRG0kS_g?si=25OvTvnjob8ecxIH >}}

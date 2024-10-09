@@ -22,11 +22,9 @@ Bar6: F∆7 B♭7 B♭9\
 Bar7: C∆7 C♯ϕ F∆7 A♭ϕ\
 Bar8: D♭∆13 C6
 
-
 ## Phrase 4 Dead Slow
 
 {{< video https://youtu.be/68LU3zelS0Q >}}
-
 
 ## Phrase 4 Second Half
 
@@ -61,5 +59,7 @@ Reverb: 5.0
 
 Gain: 9 o'clock\
 Mode: Stereo, on desk near plant
+
+## Lesson
 
 {{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}
