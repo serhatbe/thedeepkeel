@@ -1,5 +1,5 @@
 ---
-title: "A Modern Method for Guitar Ex.01"
+title: "A Modern Method for Guitar"
 date: "2024-10-08T15:01:23"
 #date-modified: "2024-10-07T16:01:23"
 format: 
@@ -12,6 +12,14 @@ categories:
   - Scales
 ---
 
+## Exercise 3
+
+{{< video https://youtu.be/3jWbFmz7wkM >}}
+
+## Exercise 2
+
+{{< video https://youtu.be/7vjI5AKKMBM >}}
+
 ## Exercise 1
 
 {{< video https://youtu.be/YW0-J1n9FWo >}}
@@ -20,9 +28,9 @@ categories:
 
 ## Gibson Les Paul
 
-Pickup Position: Neck\
-Master Volume: 5\
-Master Tone: 8
+Pickup Position: Bridge\
+Master Volume: 2.5\
+Master Tone: 2.5
 
 ## Joyo Tremolo
 
