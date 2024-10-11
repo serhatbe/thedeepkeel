@@ -1,7 +1,7 @@
 ---
-title: "A Modern Method for Guitar"
+title: "A Modern Method for Guitar: Ex.1-4"
 date: "2024-10-08T15:01:23"
-#date-modified: "2024-10-07T16:01:23"
+date-modified: "2024-10-10T16:01:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -11,6 +11,10 @@ categories:
   - Study
   - Scales
 ---
+
+## Exercise 4
+
+{{< video https://youtu.be/3jWbFmz7wkM >}}
 
 ## Exercise 3
 
