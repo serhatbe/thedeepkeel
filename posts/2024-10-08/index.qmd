@@ -14,7 +14,13 @@ categories:
 
 ## Exercise 4
 
-{{< video https://youtu.be/3jWbFmz7wkM >}}
+{{< video https://youtu.be/dK4uozlunNo >}}
+
+## Exercise 4a & 4b
+
+{{< video https://youtu.be/wX4gCN_zbIY >}}
+
+{{< video https://youtu.be/wLTsm8lnHrY >}}
 
 ## Exercise 3
 

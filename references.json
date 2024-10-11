@@ -56,5 +56,33 @@
         "title": "Every good boy does fine: a love story, in music lessons",
         "title-short": "Every good boy does fine",
         "type": "book"
+    },
+    {
+        "ISBN": "978-0-87639-199-0",
+        "author": [
+            {
+                "family": "Leavitt",
+                "given": "William"
+            }
+        ],
+        "id": "leavitt2020",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    1
+                ]
+            ]
+        },
+        "key": "L5BL6I7P",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "424",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "publisher": "Berklee Press",
+        "source": "Amazon",
+        "title": "A Modern Method for Guitar - Complete Method Book/Online Media",
+        "type": "book"
     }
 ]
