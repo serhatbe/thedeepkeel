@@ -1,7 +1,7 @@
 ---
 title: "Ex.1-4"
 date: "2024-10-08T15:01:23"
-date-modified: "2024-10-13T16:01:23"
+date-modified: "2024-10-14T16:01:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -14,6 +14,10 @@ categories:
 ---
 
 ## Exercise 4
+
+{{< video https://youtu.be/o_Ap6XmV5SI >}}
+
+{{< video https://youtu.be/6ipcl1i2BiU >}}
 
 {{< video https://youtu.be/sfNGakEJpWk >}}
 
