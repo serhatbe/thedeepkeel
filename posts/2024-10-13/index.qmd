@@ -1,6 +1,6 @@
 ---
 title: "Sea to Sea"
-date: "2024-10-13T15:01:23"
+date: "2024-10-15T15:01:23"
 #date-modified: "2024-10-13T16:01:23"
 format: 
   html: default
@@ -13,9 +13,9 @@ categories:
   - MMG
 ---
 
-## Part 1
+## Section A
 
-{{< video https://youtu.be/YW0-J1n9FWo >}}
+{{< video https://youtu.be/GZhWPID0WYw >}}
 
 ## Gibson Les Paul
 

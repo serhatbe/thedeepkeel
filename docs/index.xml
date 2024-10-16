@@ -10,7 +10,7 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Sun, 13 Oct 2024 22:01:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Oct 2024 22:01:23 GMT</lastBuildDate>
 <item>
   <title>Sea to Sea</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-13/</link>
@@ -19,9 +19,9 @@
 
 
 
-<section id="part-1" class="level2">
-<h2 class="anchored" data-anchor-id="part-1">Part 1</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YW0-J1n9FWo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="section-a" class="level2">
+<h2 class="anchored" data-anchor-id="section-a">Section A</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/GZhWPID0WYw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="gibson-les-paul" class="level2">
 <h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
@@ -67,7 +67,7 @@ Mode: Stereo, on desk near plant</p>
   <category>Scales</category>
   <category>MMG</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-10-13/</guid>
-  <pubDate>Sun, 13 Oct 2024 22:01:23 GMT</pubDate>
+  <pubDate>Tue, 15 Oct 2024 22:01:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
