@@ -15,7 +15,7 @@ categories:
 
 ## Section A
 
-{{< video https://youtu.be/GZhWPID0WYw >}}
+{{< video https://youtu.be/VDDi_5TNDCc >}}
 
 ## Gibson Les Paul
 
