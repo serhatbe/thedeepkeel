@@ -1,7 +1,7 @@
 ---
 title: "Sea to Sea"
 date: "2024-10-15T15:01:23"
-#date-modified: "2024-10-13T16:01:23"
+date-modified: "2024-10-16T16:01:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -12,6 +12,10 @@ categories:
   - Scales
   - MMG
 ---
+
+## Section A1
+
+{{< video https://youtu.be/y3LezK-UqGQ >}}
 
 ## Section A
 
