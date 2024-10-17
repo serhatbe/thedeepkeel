@@ -1,7 +1,7 @@
 ---
 title: "White Christmas Phrase 4"
 date: "2024-10-06T15:01:23"
-#date-modified: "2024-10-07T16:01:23"
+date-modified: "2024-10-16T16:01:23"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -15,12 +15,14 @@ categories:
   - Chord melody
 ---
 
-Tempo: 0.35x\
-\
 **Phrase 4**\
-Bar6: F∆7 B♭7 B♭9\
-Bar7: C∆7 C♯ϕ F∆7 A♭ϕ\
-Bar8: D♭∆13 C6
+**Bar 6:** F∆7 B♭7 B♭9\
+**Bar 7:** C∆7 C♯ø F∆7 A♭ø\
+**Bar 8:** D♭∆13 C6
+
+## Phrase 4 0.45x Temp
+
+{{< video https://youtu.be/hFhrdBESyvA >}}
 
 ## Phrase 4 Dead Slow
 

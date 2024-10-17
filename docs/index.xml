@@ -159,12 +159,14 @@ Mode: Stereo, on desk near plant</p>
 
 
 
-<p>Tempo: 0.35x<br>
-<br>
-<strong>Phrase 4</strong><br>
-Bar6: F∆7 B♭7 B♭9<br>
-Bar7: C∆7 C♯ϕ F∆7 A♭ϕ<br>
-Bar8: D♭∆13 C6</p>
+<p><strong>Phrase 4</strong><br>
+<strong>Bar 6:</strong> F∆7 B♭7 B♭9<br>
+<strong>Bar 7:</strong> C∆7 C♯ø F∆7 A♭ø<br>
+<strong>Bar 8:</strong> D♭∆13 C6</p>
+<section id="phrase-4-0.45x-temp" class="level2">
+<h2 class="anchored" data-anchor-id="phrase-4-0.45x-temp">Phrase 4 0.45x Temp</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/hFhrdBESyvA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
 <section id="phrase-4-dead-slow" class="level2">
 <h2 class="anchored" data-anchor-id="phrase-4-dead-slow">Phrase 4 Dead Slow</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/68LU3zelS0Q" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
@@ -674,16 +676,16 @@ Mode: Stereo, on desk near plant</p>
 
 <p>Tempo: free</p>
 <p><strong>Phrase 1</strong><br>
-Bar1: Cmaj7 Dm7 F#13<br>
-Bar2: Dm7 D#o Em7<br>
-<strong>Phrase 2</strong><br>
-Bar3: Fmaj7 G9<br>
-Bar4: Cmaj7 Eb7 Dmin11 G9sus4 G9<br>
-Bar5: Cmaj7 C7<br>
-<strong>Phrase 3</strong><br>
-Bar6: F6/9 F-6<br>
-Bar7: Cmaj7 Dm7 G9<br>
-Bar8: Dm7 G7</p>
+<strong>Bar 1:</strong> C∆7 Dm7 F♯13<br>
+<strong>Bar 2:</strong> Dm7 D♯ø Em7</p>
+<p><strong>Phrase 2</strong><br>
+<strong>Bar 3:</strong> F∆7 G9<br>
+<strong>Bar 4:</strong> C∆7 E♭7 Dm11 G9sus4 G9<br>
+<strong>Bar 5:</strong> C∆7 C7</p>
+<p><strong>Phrase 3</strong><br>
+<strong>Bar 6:</strong> F6/9 Fm6<br>
+<strong>Bar 7:</strong> C∆7 Dm7 G9<br>
+<strong>Bar 8:</strong> Dm7 G7</p>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/bm-cEq6EdYk?si=QkqhKnoDoDOnx_BU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>

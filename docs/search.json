@@ -1451,7 +1451,7 @@
     "href": "posts/2024-03-09/index.html",
     "title": "White Christmas Phrases 1, 2 & 3",
     "section": "",
-    "text": "Tempo: free\nPhrase 1\nBar1: Cmaj7 Dm7 F#13\nBar2: Dm7 D#o Em7\nPhrase 2\nBar3: Fmaj7 G9\nBar4: Cmaj7 Eb7 Dmin11 G9sus4 G9\nBar5: Cmaj7 C7\nPhrase 3\nBar6: F6/9 F-6\nBar7: Cmaj7 Dm7 G9\nBar8: Dm7 G7"
+    "text": "Tempo: free\nPhrase 1\nBar 1: C∆7 Dm7 F♯13\nBar 2: Dm7 D♯ø Em7\nPhrase 2\nBar 3: F∆7 G9\nBar 4: C∆7 E♭7 Dm11 G9sus4 G9\nBar 5: C∆7 C7\nPhrase 3\nBar 6: F6/9 Fm6\nBar 7: C∆7 Dm7 G9\nBar 8: Dm7 G7"
   },
   {
     "objectID": "posts/2024-03-09/index.html#video",
@@ -4367,7 +4367,7 @@
     "href": "posts/2024-10-06/index.html",
     "title": "White Christmas Phrase 4",
     "section": "",
-    "text": "Tempo: 0.35x\n\nPhrase 4\nBar6: F∆7 B♭7 B♭9\nBar7: C∆7 C♯ϕ F∆7 A♭ϕ\nBar8: D♭∆13 C6"
+    "text": "Phrase 4\nBar 6: F∆7 B♭7 B♭9\nBar 7: C∆7 C♯ø F∆7 A♭ø\nBar 8: D♭∆13 C6"
   },
   {
     "objectID": "posts/2024-10-06/index.html#bars-1---10-tempo-40-bpm",
@@ -4644,5 +4644,12 @@
     "title": "Sea to Sea",
     "section": "Lesson Part 1",
     "text": "Lesson Part 1"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#phrase-4-0.45x-temp",
+    "href": "posts/2024-10-06/index.html#phrase-4-0.45x-temp",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 0.45x Temp",
+    "text": "Phrase 4 0.45x Temp"
   }
 ]
