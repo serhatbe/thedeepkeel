@@ -10,7 +10,7 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Tue, 15 Oct 2024 22:01:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Oct 2024 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Sea to Sea</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-13/</link>
@@ -19,6 +19,10 @@
 
 
 
+<section id="guitar-1" class="level2">
+<h2 class="anchored" data-anchor-id="guitar-1">Guitar 1</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/tJkheXavkmA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
 <section id="section-a1" class="level2">
 <h2 class="anchored" data-anchor-id="section-a1">Section A1</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/y3LezK-UqGQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
@@ -71,7 +75,7 @@ Mode: Stereo, on desk near plant</p>
   <category>Scales</category>
   <category>MMG</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-10-13/</guid>
-  <pubDate>Tue, 15 Oct 2024 22:01:23 GMT</pubDate>
+  <pubDate>Tue, 15 Oct 2024 07:00:00 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
