@@ -14,11 +14,11 @@ categories:
 ---
 
 
-## Guitar 1
+## Guitar 2
 
 {{< video https://youtu.be/af31sNjlnLI >}}
 
-## Guitar 1
+## Guitar 2
 
 {{< video https://youtu.be/25VeHXWId7Y >}}
 
