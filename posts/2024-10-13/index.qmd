@@ -1,7 +1,7 @@
 ---
 title: "Sea to Sea"
 date: "2024-10-15"
-date-modified: "2024-10-22"
+date-modified: "2024-10-24"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -12,6 +12,15 @@ categories:
   - Scales
   - MMG
 ---
+
+
+## Guitar 1
+
+{{< video https://youtu.be/af31sNjlnLI >}}
+
+## Guitar 1
+
+{{< video https://youtu.be/25VeHXWId7Y >}}
 
 ## Guitar 1
 
