@@ -13,7 +13,6 @@ categories:
   - MMG
 ---
 
-
 ## Guitar 2
 
 {{< video https://youtu.be/af31sNjlnLI >}}
