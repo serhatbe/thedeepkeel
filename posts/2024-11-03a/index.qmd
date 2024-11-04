@@ -1,7 +1,7 @@
 ---
-title: "Sea to Sea Duet"
+title: "Ex.5-6"
 date: "2024-11-03"
-#date-modified: "2024-10-24"
+#date-modified: "2024-11-03"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -13,9 +13,14 @@ categories:
   - MMG
 ---
 
-## Guitar 2 Duet
+## Exercise 6
 
-{{< video https://youtu.be/3nH_aggIAck >}}
+{{< video https://youtu.be/7vjI5AKKMBM >}}
+
+## Exercise 5
+
+{{< video https://youtu.be/YW0-J1n9FWo >}}
+
 
 ## Gibson Les Paul
 
@@ -42,12 +47,11 @@ Middle: 6.0\
 Master: 4.5\
 Reverb: 5.0
 
-## GarageBand
+## Blue Yeti
 
-Track: Natural Vocal
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
 
-Mix: Jazz
+## Lesson
 
-## Lesson Part 1
-
-{{< video https://youtu.be/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI >}}
+{{< video https://youtu.be/9Gj4_5GhIR0?si=0n_kdNJRUvH49F3Y >}}
