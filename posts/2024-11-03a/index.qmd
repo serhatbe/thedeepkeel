@@ -13,13 +13,13 @@ categories:
   - MMG
 ---
 
-## Exercise 6
+## Exercise 5 @ 100 bpm
 
-{{< video https://youtu.be/7vjI5AKKMBM >}}
+{{< video https://youtu.be/4G4SW1MID-s >}}
 
-## Exercise 5
+## Exercise 5 @ 50 bpm
 
-{{< video https://youtu.be/YW0-J1n9FWo >}}
+{{< video https://youtu.be/ndq4iqRaIko >}}
 
 
 ## Gibson Les Paul
