@@ -9,7 +9,7 @@
 <link>https://serhatbe.github.io/thedeepkeel/</link>
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
-<generator>quarto-1.5.56</generator>
+<generator>quarto-1.6.32</generator>
 <lastBuildDate>Sun, 03 Nov 2024 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Ex.5-6</title>
@@ -19,6 +19,10 @@
 
 
 
+<section id="exercise-6-80-bpm" class="level2">
+<h2 class="anchored" data-anchor-id="exercise-6-80-bpm">Exercise 6 @ 80 bpm</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/zLieWyYYkE0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
 <section id="exercise-5-100-bpm" class="level2">
 <h2 class="anchored" data-anchor-id="exercise-5-100-bpm">Exercise 5 @ 100 bpm</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/4G4SW1MID-s" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
