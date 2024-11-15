@@ -1,5 +1,5 @@
 ---
-title: "Practice with Metronome "
+title: "Ever So Slowly"
 listing:
   contents: posts
   sort: "date desc"
