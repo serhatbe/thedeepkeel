@@ -5,7 +5,7 @@ date: "2024-11-30T20:37:23"
 #draft: true
 format: 
   html: default
-image: "../img/ami.jpg"
+image: "../img/ami.jpeg"
 categories:
   - 2024
   - Parlor
