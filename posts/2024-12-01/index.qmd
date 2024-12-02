@@ -19,9 +19,9 @@ categories:
 
 ## Gibson Les Paul
 
--   Pickup Position: Neck
--   Master Volume: 9
--   Master Tone: 5
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5\
 
 ## Zoom G3Xn
 
