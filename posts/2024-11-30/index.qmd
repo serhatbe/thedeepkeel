@@ -2,7 +2,6 @@
 title: "Happy Birthday"
 date: "2024-11-30T20:37:23"
 #date-modified: "2023-07-10T20:37:23"
-#draft: true
 format: 
   html: default
 image: "../img/ami.jpeg"
