@@ -6,7 +6,7 @@ format:
   html: default
 image: "../img/ami.jpeg"
 categories:
-  - 2024
+  - "2024"
   - Parlor
   - Song
 ---

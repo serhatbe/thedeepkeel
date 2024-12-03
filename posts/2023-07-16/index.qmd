@@ -8,7 +8,7 @@ format:
 image: "../img/jag.jpg"
 
 categories:
-  - 2023
+  - "2023"
   - Jaguar
   - Hybrid picking
   - Song

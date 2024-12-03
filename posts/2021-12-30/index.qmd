@@ -7,7 +7,7 @@ format:
   html: default
 image: "../img/tele.jpg"
 categories:
-  - 2021
+  - "2021"
   - Telecaster
   - Rhythm
   - Study

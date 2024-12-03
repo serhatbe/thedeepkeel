@@ -7,7 +7,7 @@ format:
   html: default
 image: "../img/strat.jpg"
 categories:
-  - 2023
+  - "2023"
   - Stratocaster
   - Fingerstyle
   - Christmas

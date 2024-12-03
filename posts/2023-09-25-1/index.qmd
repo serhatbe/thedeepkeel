@@ -9,7 +9,7 @@ image: "../img/les.jpg"
 # image: "../img/strat.jpg"
 # image: "../img/tele.jpg"
 categories:
-  - 2023
+  - "2023"
   - Les Paul
   - Thump pick
   - Study

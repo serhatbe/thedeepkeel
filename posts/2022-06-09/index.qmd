@@ -6,7 +6,7 @@ format:
   html: default
 image: "../img/jag.jpg"
 categories:
-  - 2022
+  - "2022"
   - Jaguar
   - Hybrid picking
   - Study

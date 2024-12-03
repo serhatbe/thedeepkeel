@@ -7,7 +7,7 @@ format:
 image: "../img/strat.jpg"
 
 categories:
-  - 2021
+  - "2021"
   - Stratocaster
   - Fingerstyle
   - Study

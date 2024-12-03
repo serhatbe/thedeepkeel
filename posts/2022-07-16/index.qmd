@@ -8,7 +8,7 @@ format:
 image: "../img/les.jpg"
 
 categories:
-  - 2022
+  - "2022"
   - Les Paul
   - Hybrid picking
   - Song

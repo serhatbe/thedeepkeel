@@ -6,7 +6,7 @@ format:
   html: default
 image: "../img/strat.jpg"
 categories:
-  - 2022
+  - "2022"
   - Stratocaster
   - Rhythm
 ---

@@ -10,7 +10,7 @@ image: "../img/jag.jpg"
 # image: "../img/strat.jpg"
 # image: "../img/tele.jpg"
 categories:
-  - 2021
+  - "2021"
   - Jaguar
   - Fingerstyle
   - Song

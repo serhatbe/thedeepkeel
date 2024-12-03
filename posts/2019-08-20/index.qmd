@@ -9,7 +9,7 @@ format:
 image: "../img/strat.jpg"
 #image: "../img/tele.jpg"
 categories:
-  - 2019
+  - "2019"
   - Stratocaster
   - Theory
 ---
