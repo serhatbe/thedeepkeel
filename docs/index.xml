@@ -74,6 +74,10 @@ Reverb: 2.5</p>
 <h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
 <p>Gain: 10 o’clock<br>
 Mode: Stereo, on desk near plant</p>
+</section>
+<section id="lesson-video" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/yy-toOJf7pM?si=HHtNR3vD7eixgK9v" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 </section>

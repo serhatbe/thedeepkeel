@@ -67,3 +67,7 @@ Reverb: 2.5
 
 Gain: 10 o'clock\
 Mode: Stereo, on desk near plant
+
+## Lesson Video
+
+{{< video https://youtu.be/yy-toOJf7pM?si=HHtNR3vD7eixgK9v >}}
