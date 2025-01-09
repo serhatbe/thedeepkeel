@@ -34,6 +34,8 @@ Write and say it out loud:
 
 ## Video
 
+Wed, 2025-01-08: Tempo: 70 bpm
+
 {{< video https://youtu.be/-aenMhnLNgc >}}
 
 ## Gibson Les Paul
