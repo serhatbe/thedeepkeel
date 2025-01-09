@@ -24,9 +24,9 @@ Wed, 2025-01-08: Tempo: 70 bpm
 
 ## Chord Practice
 
--   G Chord, 25 repetitions
--   Cadd9 Chord, 25 repetitions
--   Chord progression, G -\> Cadd9, 3 min.
+-   **G** Chord, 25 repetitions
+-   **Cadd9** Chord, 25 repetitions
+-   Chord progression, **G → Cadd9**, 3 min.
 
 ## Chromatic Scale
 
