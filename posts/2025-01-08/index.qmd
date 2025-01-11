@@ -1,12 +1,7 @@
 ---
 title: "Week02"
-<<<<<<< HEAD
 date: "2025-01-08"
 date-modified: "2025-01-11"
-=======
-date: "2025-01-08T20:37:23"
-date-modified: "2025-01-09"
->>>>>>> 7264102d3fa6cbb1cc71cc852d48f67196d4fda6
 format: 
   html: default
 image: "../img/les.jpg"
@@ -17,13 +12,8 @@ categories:
   - TGIAY
 ---
 
-<<<<<<< HEAD
 Sat, 2025-01-11: Tempo: 70 bpm
 
-=======
-Thr, 2025-01-09: Tempo: 70 bpm\
-\
->>>>>>> 7264102d3fa6cbb1cc71cc852d48f67196d4fda6
 Wed, 2025-01-08: Tempo: 70 bpm
 
 ## Picking Practice
@@ -34,15 +24,12 @@ Wed, 2025-01-08: Tempo: 70 bpm
 
 ## Chord Practice
 
-<<<<<<< HEAD
 -   G Chord, 25 repetitions
 -   Cadd9 Chord, 25 repetitions
 -   Chord progression, G → Cadd9, 3 min at 70 bpm.
-=======
 -   **G** Chord, 25 repetitions
 -   **Cadd9** Chord, 25 repetitions
 -   Chord progression, **G → Cadd9**, 3 min.
->>>>>>> 7264102d3fa6cbb1cc71cc852d48f67196d4fda6
 
 ## Chromatic Scale
 

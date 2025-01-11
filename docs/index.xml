@@ -10,11 +10,7 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.6.40</generator>
-<<<<<<< HEAD
 <lastBuildDate>Wed, 08 Jan 2025 08:00:00 GMT</lastBuildDate>
-=======
-<lastBuildDate>Thu, 09 Jan 2025 04:37:23 GMT</lastBuildDate>
->>>>>>> 7264102d3fa6cbb1cc71cc852d48f67196d4fda6
 <item>
   <title>Week02</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2025-01-08/</link>
@@ -23,14 +19,8 @@
 
 
 
-<<<<<<< HEAD
 <p>Sat, 2025-01-11: Tempo: 70 bpm</p>
 <p>Wed, 2025-01-08: Tempo: 70 bpm</p>
-=======
-<p>Thr, 2025-01-09: Tempo: 70 bpm<br>
-<br>
-Wed, 2025-01-08: Tempo: 70 bpm</p>
->>>>>>> 7264102d3fa6cbb1cc71cc852d48f67196d4fda6
 <section id="picking-practice" class="level2">
 <h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
 <ul>
@@ -41,15 +31,12 @@ Wed, 2025-01-08: Tempo: 70 bpm</p>
 <section id="chord-practice" class="level2">
 <h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
 <ul>
-<<<<<<< HEAD
 <li>G Chord, 25 repetitions</li>
 <li>Cadd9 Chord, 25 repetitions</li>
 <li>Chord progression, G → Cadd9, 3 min at 70 bpm.</li>
-=======
 <li><strong>G</strong> Chord, 25 repetitions</li>
 <li><strong>Cadd9</strong> Chord, 25 repetitions</li>
 <li>Chord progression, <strong>G → Cadd9</strong>, 3 min.</li>
->>>>>>> 7264102d3fa6cbb1cc71cc852d48f67196d4fda6
 </ul>
 </section>
 <section id="chromatic-scale" class="level2">
@@ -331,65 +318,6 @@ Mode: Stereo, on desk near plant</p>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Sea to Sea Duet</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="guitar-2-duet" class="level2">
-<h2 class="anchored" data-anchor-id="guitar-2-duet">Guitar 2 Duet</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3nH_aggIAck" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="gibson-les-paul" class="level2">
-<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
-<p>Pickup Position: Bridge<br>
-Master Volume: 5<br>
-Master Tone: 3</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>Preset: 134 Jazz Fall</p>
-</section>
-<section id="joyo-tremolo-off" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo-off">Joyo Tremolo OFF</h2>
-<p>Intensity: 50%<br>
-Rate: 50%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.0<br>
-Middle: 6.0<br>
-Master: 4.5<br>
-Reverb: 5.0</p>
-</section>
-<section id="garageband" class="level2">
-<h2 class="anchored" data-anchor-id="garageband">GarageBand</h2>
-<p>Track: Natural Vocal</p>
-<p>Mix: Jazz</p>
-</section>
-<section id="lesson-part-1" class="level2">
-<h2 class="anchored" data-anchor-id="lesson-part-1">Lesson Part 1</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2024</category>
-  <category>Les Paul</category>
-  <category>Study</category>
-  <category>Scales</category>
-  <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03/</guid>
-  <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Ex.5-6</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03a/</link>
   <description><![CDATA[ 
@@ -453,6 +381,65 @@ Mode: Stereo, on desk near plant</p>
   <category>Scales</category>
   <category>MMG</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03a/</guid>
+  <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Sea to Sea Duet</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="guitar-2-duet" class="level2">
+<h2 class="anchored" data-anchor-id="guitar-2-duet">Guitar 2 Duet</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3nH_aggIAck" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="gibson-les-paul" class="level2">
+<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
+<p>Pickup Position: Bridge<br>
+Master Volume: 5<br>
+Master Tone: 3</p>
+</section>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>Preset: 134 Jazz Fall</p>
+</section>
+<section id="joyo-tremolo-off" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo-off">Joyo Tremolo OFF</h2>
+<p>Intensity: 50%<br>
+Rate: 50%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 6.5<br>
+Bass: 6.0<br>
+Middle: 6.0<br>
+Master: 4.5<br>
+Reverb: 5.0</p>
+</section>
+<section id="garageband" class="level2">
+<h2 class="anchored" data-anchor-id="garageband">GarageBand</h2>
+<p>Track: Natural Vocal</p>
+<p>Mix: Jazz</p>
+</section>
+<section id="lesson-part-1" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-part-1">Lesson Part 1</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2024</category>
+  <category>Les Paul</category>
+  <category>Study</category>
+  <category>Scales</category>
+  <category>MMG</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03/</guid>
   <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
