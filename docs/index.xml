@@ -9,8 +9,8 @@
 <link>https://serhatbe.github.io/thedeepkeel/</link>
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
-<generator>quarto-1.6.32</generator>
-<lastBuildDate>Thu, 09 Jan 2025 04:37:23 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Wed, 08 Jan 2025 08:00:00 GMT</lastBuildDate>
 <item>
   <title>Week02</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2025-01-08/</link>
@@ -19,6 +19,7 @@
 
 
 
+<p>Sat, 2025-01-11: Tempo: 70 bpm</p>
 <p>Wed, 2025-01-08: Tempo: 70 bpm</p>
 <section id="picking-practice" class="level2">
 <h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
@@ -31,8 +32,8 @@
 <h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
 <ul>
 <li>G Chord, 25 repetitions</li>
-<li>Cadd9 Chord, repetitions</li>
-<li>Chord progression, G -&gt; Cadd9, 3 min.</li>
+<li>Cadd9 Chord, 25 repetitions</li>
+<li>Chord progression, G → Cadd9, 3 min at 70 bpm.</li>
 </ul>
 </section>
 <section id="chromatic-scale" class="level2">
@@ -42,6 +43,8 @@
 </section>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
+<p>Sat, 2025-01-11: Tempo: 70 bpm</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/41E8xuTKoso" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Wed, 2025-01-08: Tempo: 70 bpm</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/-aenMhnLNgc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
@@ -88,7 +91,7 @@ Mode: Stereo, on desk near plant</p>
   <category>Practice</category>
   <category>TGIAY</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-01-08/</guid>
-  <pubDate>Thu, 09 Jan 2025 04:37:23 GMT</pubDate>
+  <pubDate>Wed, 08 Jan 2025 08:00:00 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>

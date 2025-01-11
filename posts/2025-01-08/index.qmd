@@ -1,7 +1,7 @@
 ---
 title: "Week02"
-date: "2025-01-08T20:37:23"
-#date-modified: "2023-07-10T20:37:23"
+date: "2025-01-08"
+date-modified: "2025-01-11"
 format: 
   html: default
 image: "../img/les.jpg"
@@ -13,6 +13,7 @@ categories:
 ---
 
 Sat, 2025-01-11: Tempo: 70 bpm
+
 Wed, 2025-01-08: Tempo: 70 bpm
 
 ## Picking Practice
@@ -25,7 +26,7 @@ Wed, 2025-01-08: Tempo: 70 bpm
 
 -   G Chord, 25 repetitions
 -   Cadd9 Chord, 25 repetitions
--   Chord progression, G → Cadd9, 3 min.
+-   Chord progression, G → Cadd9, 3 min at 70 bpm.
 
 ## Chromatic Scale
 
