@@ -12,7 +12,7 @@ categories:
   - TGIAY
 ---
 
-Tempo: 70 bpm
+**Tempo: 70 bpm**
 
 ## Picking Practice
 
@@ -23,7 +23,9 @@ Tempo: 70 bpm
 ## Chord Practice
 
 -   **G** Chord, 25 repetitions
+
 -   **Cadd9** Chord, 25 repetitions
+
 -   Chord progression, **G → Cadd9**, 3 min.
 
 ## Chromatic Scale
