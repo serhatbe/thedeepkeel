@@ -12,9 +12,7 @@ categories:
   - TGIAY
 ---
 
-Sat, 2025-01-11: Tempo: 70 bpm
-
-Wed, 2025-01-08: Tempo: 70 bpm
+Tempo: 70 bpm
 
 ## Picking Practice
 
@@ -24,9 +22,6 @@ Wed, 2025-01-08: Tempo: 70 bpm
 
 ## Chord Practice
 
--   G Chord, 25 repetitions
--   Cadd9 Chord, 25 repetitions
--   Chord progression, G → Cadd9, 3 min at 70 bpm.
 -   **G** Chord, 25 repetitions
 -   **Cadd9** Chord, 25 repetitions
 -   Chord progression, **G → Cadd9**, 3 min.
@@ -37,7 +32,7 @@ Write and say it out loud:
 
 [C]{.underline} C#Db [D]{.underline} D#Eb [E]{.underline} [F]{.underline} F#Gb [G]{.underline} G#Ab [A]{.underline} A#Bb [B]{.underline}
 
-## Video
+## Video Log
 
 Sat, 2025-01-11: Tempo: 70 bpm
 
