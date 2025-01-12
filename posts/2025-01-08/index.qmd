@@ -38,7 +38,7 @@ Write and say it out loud:
 
 Sat, 2025-01-11: Tempo: 70 bpm
 
-{{< video https://youtu.be/41E8xuTKoso >}}
+{{< video https://youtu.be/e2lNiIj4K2M >}}
 
 Wed, 2025-01-08: Tempo: 70 bpm
 
