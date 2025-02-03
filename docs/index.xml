@@ -10,7 +10,92 @@
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 03 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week04</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-02-04/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Tempo: 70 bpm</strong></p>
+<section id="picking-practice" class="level2">
+<h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
+<ul>
+<li><p>Alternate picking, fingers 4-3-2-1, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions</p></li>
+</ul>
+</section>
+<section id="first-song" class="level2">
+<h2 class="anchored" data-anchor-id="first-song">First Song</h2>
+<p>The Cowboy Rides Away by George Straight</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/kFbbyt6oAmk?si=7VG3yzzKAG_VtHX-" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="chromatic-scale" class="level2">
+<h2 class="anchored" data-anchor-id="chromatic-scale">Chromatic Scale</h2>
+<p>Write and say it out loud:</p>
+<p><u>C</u> C#Db <u>D</u> D#Eb <u>E</u> <u>F</u> F#Gb <u>G</u> G#Ab <u>A</u> A#Bb <u>B</u></p>
+</section>
+<section id="cmaj-scale" class="level2">
+<h2 class="anchored" data-anchor-id="cmaj-scale">Cmaj Scale</h2>
+<ul>
+<li>Play Cmaj scale up &amp; down, 1 min</li>
+</ul>
+</section>
+<section id="video-log" class="level2">
+<h2 class="anchored" data-anchor-id="video-log">Video Log</h2>
+<p>With instructor @ 85% tempo</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/TqEsIV3O31w" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="gibson-les-paul" class="level2">
+<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: 9<br>
+Master Tone: 5</p>
+</section>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>Preset: OFF</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 25%<br>
+Rate: 25%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 4.0<br>
+Fat: OFF<br>
+Treble: 4.5<br>
+Bass: 7.0<br>
+Middle: 5.0<br>
+Master: 5.0<br>
+Reverb: 2.5</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 10 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+</section>
+<section id="lesson-video" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/MkWSsgZ2Xko?si=6JjGPbRK9Ym15Tol" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2025</category>
+  <category>Les Paul</category>
+  <category>Practice</category>
+  <category>TGIAY</category>
+  <category>Song</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-02-04/</guid>
+  <pubDate>Tue, 04 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week03</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2025-02-03/</link>
@@ -1273,77 +1358,6 @@ Mode: Stereo, on desk near plant</p>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-03-09/</guid>
   <pubDate>Sun, 10 Mar 2024 04:37:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/strat.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>White Christmas Phrases 1, 2 &amp; 3</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-02-11/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tempo: free</p>
-<p><strong>Phrase 1</strong><br>
-Bar1: Cmaj7 Dm7 F#13<br>
-Bar2: Dm7 D#o Em7<br>
-<strong>Phrase 2</strong><br>
-Bar3: Fmaj7 G9<br>
-Bar4: Cmaj7 Eb7 Dmin11 G9sus4 G9<br>
-Bar5: Cmaj7 C7<br>
-<strong>Phrase 3</strong><br>
-Bar6: F6/9 F-6<br>
-Bar7: Cmaj7 Dm7 G9<br>
-Bar8: Dm7 G7</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/IdWmMwQJ8JI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/SB5lx9AnFk0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="gibson-les-paul" class="level2">
-<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: 6<br>
-Master Tone: 7</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>Preset: 147 Jazz Summer</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 25%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.0<br>
-Middle: 6.0<br>
-Master: 3.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
-<p>Gain: 9 o’clock<br>
-Mode: Stereo, on desk near plant</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2024</category>
-  <category>Les Paul</category>
-  <category>Fingerstyle</category>
-  <category>Song</category>
-  <category>Study</category>
-  <category>Christmas</category>
-  <category>Chord melody</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-02-11/</guid>
-  <pubDate>Mon, 12 Feb 2024 04:37:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
