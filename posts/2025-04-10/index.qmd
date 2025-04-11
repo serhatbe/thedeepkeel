@@ -53,3 +53,5 @@ Reverb: 2.5
 
 Blue Yeti\
 Gain: 10 o'clock Mode: Stereo, on desk near plant
+
+![](images/Okinawa Skies Revisited.pdf)
