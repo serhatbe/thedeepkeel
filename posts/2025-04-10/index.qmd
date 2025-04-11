@@ -24,34 +24,44 @@ Measures: 1-4
 
 {{< video https://youtu.be/p9KPWFxVmFY >}}
 
-## Fender Jaguar
+```         
+Fender Jaguar
 
-Pickup Position: Neck\
-Master Volume: \~9\
-Master Tone: \~6
+Pickup Position: Neck
+Master Volume: ~9
+Master Tone: ~6
 
-## Multi Effects Processor: Zoom G3Xn
+Multi Effects Processor: Zoom G3Xn
 
 Preset: OFF
 
-## Joyo Tremolo
+Joyo Tremolo
 
-Intensity: 25%\
+Intensity: 25%
 Rate: 25%
 
-## Amplifier: Fender Blues Jr. III
+Amplifier: Fender Blues Jr. III
 
-Volume: 4.0\
-Fat: OFF\
-Treble: 4.5\
-Bass: 7.0\
-Middle: 5.0\
-Master: 5.0\
+Volume: 4.0
+Fat: OFF
+Treble: 4.5
+Bass: 7.0
+Middle: 5.0
+Master: 5.0
 Reverb: 2.5
 
-## Microphone
+Microphone
 
-Blue Yeti\
+Blue Yeti
 Gain: 10 o'clock Mode: Stereo, on desk near plant
+```
 
-![](images/Okinawa Skies Revisited.pdf)
+## Tabluature
+
+![](images/Okinawa Skies Revisited.jpg)
+
+![](images/okinawa-shores.jpeg)
+
+![](images/Okinawa%20Skies%20Revisited.pdf)
+
+
