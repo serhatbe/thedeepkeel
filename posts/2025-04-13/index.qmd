@@ -1,6 +1,6 @@
 ---
-title: "Okinawa Skies Revisited"
-date: "2025-04-10"
+title: "The Complete Guitar Manual Ex 7.2.1"
+date: "2025-04-13"
 #date-modified: "2023-07-10T20:37:23"
 #draft: true
 format: 
@@ -10,26 +10,30 @@ categories:
   - "2025"
   - Jaguar
   - Fingerstyle
-  - Song
   - Study
 editor: 
   markdown: 
     wrap: 72
 ---
 
-Tempo: 39 bpm\
-Measures: 1-4
+Tempo: 60-90 bpm\
+Page: 195
 
 ## Video
 
-{{< video https://youtu.be/p9KPWFxVmFY >}}
+{{< video https://youtu.be/13u-VVVl34U >}}
+
+{{< video https://youtu.be/5SJ449yT-ho >}}
+
+{{< video https://youtu.be/QAnJNiGfwW0 >}}
+
 
 ```         
 Fender Jaguar
 
 Pickup Position: Neck
 Master Volume: ~9
-Master Tone: ~6
+Master Tone: ~9
 
 Multi Effects Processor: Zoom G3Xn
 
@@ -56,12 +60,6 @@ Blue Yeti
 Gain: 10 o'clock Mode: Stereo, on desk near plant
 ```
 
-## Tablature
+## Lesson
 
-![](images/Okinawa Skies Revisited.jpg)
-
-![](images/okinawa-shores.jpeg)
-
-![](images/Okinawa%20Skies%20Revisited.pdf)
-
-
+{{< video https://youtu.be/ZGuxqverDw8?si=WuOJ6O_Nm-lYzH2T >}}
