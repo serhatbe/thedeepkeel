@@ -16,7 +16,7 @@ editor:
     wrap: 72
 ---
 
-Tempo: 96 bpm\
+Tempo: 75-96 bpm\
 Page: 193
 
 ## Video

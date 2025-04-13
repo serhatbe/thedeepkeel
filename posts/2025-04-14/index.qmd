@@ -23,8 +23,6 @@ Page: 195
 
 {{< video https://youtu.be/8x546bMwiDw >}}
 
-
-
 ```         
 Fender Jaguar
 
