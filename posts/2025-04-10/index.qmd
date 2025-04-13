@@ -1,7 +1,7 @@
 ---
 title: "Okinawa Skies Revisited"
 date: "2025-04-10"
-#date-modified: "2023-07-10T20:37:23"
+#date-modified: "2025-04-12"
 #draft: true
 format: 
   html: default
@@ -16,6 +16,13 @@ editor:
   markdown: 
     wrap: 72
 ---
+
+Tempo: 39 bpm\
+Measures: 1-4
+
+## Video
+
+{{< video https://youtu.be/p9KPWFxVmFY >}}
 
 Tempo: 39 bpm\
 Measures: 1-4
@@ -58,10 +65,8 @@ Gain: 10 o'clock Mode: Stereo, on desk near plant
 
 ## Tablature
 
-![](images/Okinawa Skies Revisited.jpg)
+![](images/Okinawa%20Skies%20Revisited.jpg)
 
 ![](images/okinawa-shores.jpeg)
 
 ![](images/Okinawa%20Skies%20Revisited.pdf)
-
-
