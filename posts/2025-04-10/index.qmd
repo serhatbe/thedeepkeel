@@ -17,6 +17,47 @@ editor:
     wrap: 72
 ---
 
+Tempo: 40 bpm\
+Measures: 13-20
+
+## Video
+
+{{< video https://youtu.be/i3IT_1d5j70 >}}
+
+```         
+Fender Jaguar
+
+Pickup Position: Neck
+Master Volume: ~9
+Master Tone: ~6
+
+Multi Effects Processor: Zoom G3Xn
+
+Preset: 077 Burrel
+
+Joyo Tremolo
+
+Intensity: 25%
+Rate: 25%
+
+Amplifier: Fender Blues Jr. III
+
+Volume: 4.0
+Fat: OFF
+Treble: 4.5
+Bass: 7.0
+Middle: 5.0
+Master: 5.0
+Reverb: 2.5
+
+Microphone
+
+Blue Yeti
+Gain: 10 o'clock Mode: Stereo, on desk near plant
+```
+
+------------------------------------------------------------------------
+
 Tempo: 35 bpm\
 Measures: 13-20
 
@@ -56,6 +97,7 @@ Blue Yeti
 Gain: 10 o'clock Mode: Stereo, on desk near plant
 ```
 
+------------------------------------------------------------------------
 
 Tempo: 39 bpm\
 Measures: 1-4
