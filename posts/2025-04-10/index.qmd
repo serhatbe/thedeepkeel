@@ -1,7 +1,7 @@
 ---
 title: "Okinawa Skies Revisited"
 date: "2025-04-10"
-date-modified: "2025-04-23"
+date-modified: "2025-04-25"
 #draft: true
 format: 
   html: default
@@ -16,6 +16,13 @@ editor:
   markdown: 
     wrap: 72
 ---
+
+Tempo: 50 bpm\
+Measures: 1-30
+
+## Video
+
+{{< video https://youtu.be/igAdV1KIgEQ >}}
 
 Tempo: 50 bpm\
 Measures: 1-30
