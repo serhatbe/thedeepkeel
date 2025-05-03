@@ -17,7 +17,7 @@ website:
       - equipment.qmd
   back-to-top-navigation: true
   page-footer: 
-    left: "2013-2025, The Deep Keel"
+    left: 2013-2025 The Deep Keel built with <a href="https://quarto.org"> Quarto {{< version >}}</a>   
     right:
       - icon: rss
         href: index.xml
