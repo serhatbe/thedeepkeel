@@ -19,7 +19,9 @@
 
 
 
-<section id="video" class="level2">
+<section id="bars-1-8" class="level2">
+
+<section id="video" class="level3">
 
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/FR800B-e0iY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <pre><code>Fender Telecaster
@@ -56,10 +58,11 @@ Mode: Stereo, on desk near plant</code></pre>
 
 
 </section>
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2025</category>
-  <category>Jaguar</category>
+  <category>Telecaster</category>
   <category>Song</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-05-19/</guid>
   <pubDate>Mon, 19 May 2025 07:00:00 GMT</pubDate>

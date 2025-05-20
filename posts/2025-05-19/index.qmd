@@ -8,14 +8,16 @@ format:
 image: "../img/jag.jpg"
 categories:
   - "2025"
-  - Jaguar
+  - Telecaster
   - Song
 editor: 
   markdown: 
     wrap: 72
 ---
 
-## Video
+## Bars 1-8
+
+### Video
 
 {{< video https://youtu.be/FR800B-e0iY >}}
 
