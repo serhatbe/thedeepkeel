@@ -9,8 +9,62 @@
 <link>https://serhatbe.github.io/thedeepkeel/</link>
 <atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
-<generator>quarto-1.7.29</generator>
-<lastBuildDate>Mon, 14 Apr 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Mon, 19 May 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hava Nagila</title>
+  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-05-19/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="video" class="level2">
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/FR800B-e0iY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<pre><code>Fender Telecaster
+
+Pickup Position: Neck
+
+Master Volume: 9
+
+Master Tone: 9
+
+Zoom G3Xn
+
+Preset: OFF
+
+Joyo Tremolo
+
+Intensity: 25%
+Rate: 25%
+
+Fender Blues Jr. III
+
+Volume: 4.0
+Fat: OFF
+Treble: 4.5
+Bass: 7.0
+Middle: 5.0
+Master: 5.0
+Reverb: 2.5
+
+Blue Yeti
+
+Gain: 10 o'clock
+Mode: Stereo, on desk near plant</code></pre>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2025</category>
+  <category>Jaguar</category>
+  <category>Song</category>
+  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-05-19/</guid>
+  <pubDate>Mon, 19 May 2025 07:00:00 GMT</pubDate>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The Complete Guitar Manual Ex 7.2.2</title>
   <link>https://serhatbe.github.io/thedeepkeel/posts/2025-04-14/</link>
@@ -1416,63 +1470,6 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-09-16/</guid>
   <pubDate>Mon, 16 Sep 2024 22:01:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>You Ain’t Goin’ Nowhere</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-10/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tempo: Free</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/MIbUNSrFW5o" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>Tempo: 110 bpm</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/BYj6jpl7e8Q" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fender-telecaster" class="level2">
-<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
-<p>Pickup Position: 4<br>
-Master Volume: 9<br>
-Master Tone: 6</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p><strong>OFF</strong>: Preset: 147 Jazz Summer</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 50%<br>
-Rate: 50%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.0<br>
-Middle: 6.0<br>
-Master: 5.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
-<p>Gain: 9 o’clock<br>
-Mode: Stereo, on desk near plant</p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2024</category>
-  <category>Telecaster</category>
-  <category>Song</category>
-  <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-09-10/</guid>
-  <pubDate>Tue, 10 Sep 2024 22:01:23 GMT</pubDate>
   <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
