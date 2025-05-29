@@ -20,9 +20,10 @@
 
 
 <section id="bars-1-8" class="level2">
-
+<h2 class="anchored" data-anchor-id="bars-1-8">Bars 1-8</h2>
+<p>Tempo: Free</p>
 <section id="video" class="level3">
-
+<h3 class="anchored" data-anchor-id="video">Video</h3>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/FR800B-e0iY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <pre><code>Fender Telecaster
 
@@ -66,7 +67,7 @@ Mode: Stereo, on desk near plant</code></pre>
   <category>Song</category>
   <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-05-19/</guid>
   <pubDate>Mon, 19 May 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Complete Guitar Manual Ex 7.2.2</title>

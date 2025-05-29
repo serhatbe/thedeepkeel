@@ -17,6 +17,8 @@ editor:
 
 ## Bars 1-8
 
+Tempo: Free
+
 ### Video
 
 {{< video https://youtu.be/FR800B-e0iY >}}
