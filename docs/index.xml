@@ -6,14 +6,109 @@
       version="2.0">
 <channel>
 <title>The Deep Keel</title>
-<link>https://serhatbe.github.io/thedeepkeel/</link>
-<atom:link href="https://serhatbe.github.io/thedeepkeel/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://guitar.volumen.ca/</link>
+<atom:link href="https://guitar.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Mon, 19 May 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Jul 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week06</title>
+  <link>https://guitar.volumen.ca/posts/2025-02-09/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Tempo: 70 bpm</strong></p>
+<p>Economy of motion!</p>
+<section id="picking-practice" class="level2">
+<h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
+<ul>
+<li><p>Alternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, fingers 4-3-2-1, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions</p></li>
+</ul>
+</section>
+<section id="chromatic-scale" class="level2">
+<h2 class="anchored" data-anchor-id="chromatic-scale">Chromatic Scale</h2>
+<p>Write and say it out loud:</p>
+<p><u>C</u> C#Db <u>D</u> D#Eb <u>E</u> <u>F</u> F#Gb <u>G</u> G#Ab <u>A</u> A#Bb <u>B</u></p>
+</section>
+<section id="cmaj-scale" class="level2">
+<h2 class="anchored" data-anchor-id="cmaj-scale">Cmaj Scale</h2>
+<ul>
+<li>Play Cmaj scale up &amp; down, 1 min</li>
+</ul>
+</section>
+<section id="chord-practice" class="level2">
+<h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
+<ul>
+<li><p><strong>G</strong> Chord, 25 repetitions</p></li>
+<li><p><strong>Cadd9</strong> Chord, 25 repetitions</p></li>
+<li><p><strong>Dsus4</strong> Chord, 25 repetitions</p></li>
+<li><p>Chord progression, <strong>G → Cadd9 → Dsus4</strong>, 3 min.</p></li>
+</ul>
+</section>
+<section id="song-practice" class="level2">
+<h2 class="anchored" data-anchor-id="song-practice">Song Practice</h2>
+<p>The Cowboy Rides Away by George Straight</p>
+</section>
+<section id="video-log" class="level2">
+<h2 class="anchored" data-anchor-id="video-log">Video Log</h2>
+<p>With instructor @ 85% tempo</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/TqEsIV3O31w" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-jaguar" class="level2">
+<h2 class="anchored" data-anchor-id="fender-jaguar">Fender Jaguar</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: 9<br>
+Master Tone: 5</p>
+</section>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>Preset: OFF</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 25%<br>
+Rate: 25%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 4.0<br>
+Fat: OFF<br>
+Treble: 4.5<br>
+Bass: 7.0<br>
+Middle: 5.0<br>
+Master: 5.0<br>
+Reverb: 2.5</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 10 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+</section>
+<section id="lesson-video" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PpW1xR_ko0Q?si=3PIPzxl5z-DAeg6U" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2025</category>
+  <category>Jaguar</category>
+  <category>Practice</category>
+  <category>TGIAY</category>
+  <category>Song</category>
+  <guid>https://guitar.volumen.ca/posts/2025-02-09/</guid>
+  <pubDate>Sun, 27 Jul 2025 07:00:00 GMT</pubDate>
+  <media:content url="https://guitar.volumen.ca/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Hava Nagila</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-05-19/</link>
+  <link>https://guitar.volumen.ca/posts/2025-05-19/</link>
   <description><![CDATA[ 
 
 
@@ -65,13 +160,13 @@ Mode: Stereo, on desk near plant</code></pre>
   <category>2025</category>
   <category>Telecaster</category>
   <category>Song</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-05-19/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-05-19/</guid>
   <pubDate>Mon, 19 May 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Complete Guitar Manual Ex 7.2.2</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-04-14/</link>
+  <link>https://guitar.volumen.ca/posts/2025-04-14/</link>
   <description><![CDATA[ 
 
 
@@ -124,13 +219,13 @@ Gain: 10 o'clock Mode: Stereo, on desk near plant</code></pre>
   <category>Jaguar</category>
   <category>Fingerstyle</category>
   <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-04-14/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-04-14/</guid>
   <pubDate>Mon, 14 Apr 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Complete Guitar Manual Ex 7.2.1</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-04-13/</link>
+  <link>https://guitar.volumen.ca/posts/2025-04-13/</link>
   <description><![CDATA[ 
 
 
@@ -185,13 +280,13 @@ Gain: 10 o'clock Mode: Stereo, on desk near plant</code></pre>
   <category>Jaguar</category>
   <category>Fingerstyle</category>
   <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-04-13/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-04-13/</guid>
   <pubDate>Sun, 13 Apr 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The Complete Guitar Manual Ex 7.1.2</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-04-12/</link>
+  <link>https://guitar.volumen.ca/posts/2025-04-12/</link>
   <description><![CDATA[ 
 
 
@@ -245,13 +340,13 @@ Gain: 10 o'clock Mode: Stereo, on desk near plant</code></pre>
   <category>Jaguar</category>
   <category>Fingerstyle</category>
   <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-04-12/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-04-12/</guid>
   <pubDate>Sat, 12 Apr 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Okinawa Skies Revisited</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-04-10/</link>
+  <link>https://guitar.volumen.ca/posts/2025-04-10/</link>
   <description><![CDATA[ 
 
 
@@ -384,8 +479,8 @@ Gain: 10 o'clock Mode: Stereo, on desk near plant</code></pre>
 </section>
 <section id="tablature" class="level2">
 <h2 class="anchored" data-anchor-id="tablature">Tablature</h2>
-<p><img src="https://serhatbe.github.io/thedeepkeel/posts/2025-04-10/images/Okinawa Skies Revisited.jpg" class="img-fluid"></p>
-<p><img src="https://serhatbe.github.io/thedeepkeel/posts/2025-04-10/images/okinawa-shores.jpeg" class="img-fluid"></p>
+<p><img src="https://guitar.volumen.ca/posts/2025-04-10/images/Okinawa Skies Revisited.jpg" class="img-fluid"></p>
+<p><img src="https://guitar.volumen.ca/posts/2025-04-10/images/okinawa-shores.jpeg" class="img-fluid"></p>
 <p><embed src="images/Okinawa Skies Revisited.pdf" class="img-fluid"></p>
 
 
@@ -397,118 +492,13 @@ Gain: 10 o'clock Mode: Stereo, on desk near plant</code></pre>
   <category>Fingerstyle</category>
   <category>Song</category>
   <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-04-10/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-04-10/</guid>
   <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Week05</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-02-09/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>Tempo: 70 bpm</strong></p>
-<p>Economy of motion!</p>
-<section id="picking-practice" class="level2">
-<h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
-<ul>
-<li><p>Alternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions</p></li>
-<li><p>Alternate picking, fingers 4-3-2-1, from E to e string, 25 repetitions</p></li>
-<li><p>Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions</p></li>
-<li><p>Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions</p></li>
-</ul>
-</section>
-<section id="amazing-grace" class="level2">
-<h2 class="anchored" data-anchor-id="amazing-grace">Amazing Grace</h2>
-<p>Using Cmaj scale.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://serhatbe.github.io/thedeepkeel/posts/2025-02-09/amazinggrace.png" class="img-fluid figure-img"></p>
-<figcaption>Tab</figcaption>
-</figure>
-</div>
-</section>
-<section id="chromatic-scale" class="level2">
-<h2 class="anchored" data-anchor-id="chromatic-scale">Chromatic Scale</h2>
-<p>Write and say it out loud:</p>
-<p><u>C</u> C#Db <u>D</u> D#Eb <u>E</u> <u>F</u> F#Gb <u>G</u> G#Ab <u>A</u> A#Bb <u>B</u></p>
-</section>
-<section id="cmaj-scale" class="level2">
-<h2 class="anchored" data-anchor-id="cmaj-scale">Cmaj Scale</h2>
-<ul>
-<li>Play Cmaj scale up &amp; down, 1 min</li>
-</ul>
-</section>
-<section id="chord-practice" class="level2">
-<h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
-<ul>
-<li><p><strong>G</strong> Chord, 25 repetitions</p></li>
-<li><p><strong>Cadd9</strong> Chord, 25 repetitions</p></li>
-<li><p><strong>Dsus4</strong> Chord, 25 repetitions</p></li>
-<li><p>Chord progression, <strong>G → Cadd9 → Dsus4</strong>, 3 min.</p></li>
-</ul>
-</section>
-<section id="song-practice" class="level2">
-<h2 class="anchored" data-anchor-id="song-practice">Song Practice</h2>
-<p>The Cowboy Rides Away by George Straight</p>
-</section>
-<section id="video-log" class="level2">
-<h2 class="anchored" data-anchor-id="video-log">Video Log</h2>
-<p>With instructor @ 85% tempo</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/TqEsIV3O31w" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fender-jaguar" class="level2">
-<h2 class="anchored" data-anchor-id="fender-jaguar">Fender Jaguar</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: 9<br>
-Master Tone: 5</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>Preset: OFF</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 25%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 4.0<br>
-Fat: OFF<br>
-Treble: 4.5<br>
-Bass: 7.0<br>
-Middle: 5.0<br>
-Master: 5.0<br>
-Reverb: 2.5</p>
-</section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
-<p>Gain: 10 o’clock<br>
-Mode: Stereo, on desk near plant</p>
-</section>
-<section id="lesson-video" class="level2">
-<h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PpW1xR_ko0Q?si=3PIPzxl5z-DAeg6U" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2025</category>
-  <category>Jaguar</category>
-  <category>Practice</category>
-  <category>TGIAY</category>
-  <category>Song</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-02-09/</guid>
-  <pubDate>Sun, 09 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/jag.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Week04</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-02-04/</link>
+  <link>https://guitar.volumen.ca/posts/2025-02-04/</link>
   <description><![CDATA[ 
 
 
@@ -587,13 +577,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Practice</category>
   <category>TGIAY</category>
   <category>Song</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-02-04/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-02-04/</guid>
   <pubDate>Tue, 04 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Week03</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-02-03/</link>
+  <link>https://guitar.volumen.ca/posts/2025-02-03/</link>
   <description><![CDATA[ 
 
 
@@ -673,13 +663,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Les Paul</category>
   <category>Practice</category>
   <category>TGIAY</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-02-03/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-02-03/</guid>
   <pubDate>Mon, 03 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Week02</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2025-01-08/</link>
+  <link>https://guitar.volumen.ca/posts/2025-01-08/</link>
   <description><![CDATA[ 
 
 
@@ -755,13 +745,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Les Paul</category>
   <category>Practice</category>
   <category>TGIAY</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2025-01-08/</guid>
+  <guid>https://guitar.volumen.ca/posts/2025-01-08/</guid>
   <pubDate>Wed, 08 Jan 2025 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Ex.8</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-12-01/</link>
+  <link>https://guitar.volumen.ca/posts/2024-12-01/</link>
   <description><![CDATA[ 
 
 
@@ -817,13 +807,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <category>Scales</category>
   <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-12-01/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-12-01/</guid>
   <pubDate>Sun, 01 Dec 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>White Christmas</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-12-01wc/</link>
+  <link>https://guitar.volumen.ca/posts/2024-12-01wc/</link>
   <description><![CDATA[ 
 
 
@@ -886,13 +876,13 @@ Master Preset: WhiteXmas2024</p>
   <category>Study</category>
   <category>Christmas</category>
   <category>Chord melody</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-12-01wc/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-12-01wc/</guid>
   <pubDate>Sun, 01 Dec 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Happy Birthday</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-30/</link>
+  <link>https://guitar.volumen.ca/posts/2024-11-30/</link>
   <description><![CDATA[ 
 
 
@@ -916,13 +906,13 @@ Master Preset: Master Parlor</p>
   <category>2024</category>
   <category>Parlor</category>
   <category>Song</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-30/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-11-30/</guid>
   <pubDate>Sun, 01 Dec 2024 04:37:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/ami.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/ami.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Ex.7</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-10/</link>
+  <link>https://guitar.volumen.ca/posts/2024-11-10/</link>
   <description><![CDATA[ 
 
 
@@ -975,13 +965,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <category>Scales</category>
   <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-10/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-11-10/</guid>
   <pubDate>Sun, 10 Nov 2024 08:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Ex.5-6</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03a/</link>
+  <link>https://guitar.volumen.ca/posts/2024-11-03a/</link>
   <description><![CDATA[ 
 
 
@@ -1042,13 +1032,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <category>Scales</category>
   <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03a/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-11-03a/</guid>
   <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Sea to Sea Duet</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03/</link>
+  <link>https://guitar.volumen.ca/posts/2024-11-03/</link>
   <description><![CDATA[ 
 
 
@@ -1101,13 +1091,13 @@ Reverb: 5.0</p>
   <category>Study</category>
   <category>Scales</category>
   <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-11-03/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-11-03/</guid>
   <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Sea to Sea</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-13/</link>
+  <link>https://guitar.volumen.ca/posts/2024-10-13/</link>
   <description><![CDATA[ 
 
 
@@ -1176,13 +1166,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <category>Scales</category>
   <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-10-13/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-10-13/</guid>
   <pubDate>Tue, 15 Oct 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Ex.1-4</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-08/</link>
+  <link>https://guitar.volumen.ca/posts/2024-10-08/</link>
   <description><![CDATA[ 
 
 
@@ -1257,13 +1247,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <category>Scales</category>
   <category>MMG</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-10-08/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-10-08/</guid>
   <pubDate>Tue, 08 Oct 2024 22:01:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>White Christmas Phrase 4</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-10-06/</link>
+  <link>https://guitar.volumen.ca/posts/2024-10-06/</link>
   <description><![CDATA[ 
 
 
@@ -1338,13 +1328,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Study</category>
   <category>Christmas</category>
   <category>Chord melody</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-10-06/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-10-06/</guid>
   <pubDate>Sun, 06 Oct 2024 22:01:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Canon in D</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-22/</link>
+  <link>https://guitar.volumen.ca/posts/2024-09-22/</link>
   <description><![CDATA[ 
 
 
@@ -1399,13 +1389,13 @@ Mode: Stereo, on desk near plant</p>
   <category>Fingerstyle</category>
   <category>Song</category>
   <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-09-22/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-09-22/</guid>
   <pubDate>Sun, 22 Sep 2024 22:01:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Canon in D</title>
-  <link>https://serhatbe.github.io/thedeepkeel/posts/2024-09-16/</link>
+  <link>https://guitar.volumen.ca/posts/2024-09-16/</link>
   <description><![CDATA[ 
 
 
@@ -1472,9 +1462,9 @@ Mode: Stereo, on desk near plant</p>
   <category>Fingerstyle</category>
   <category>Song</category>
   <category>Study</category>
-  <guid>https://serhatbe.github.io/thedeepkeel/posts/2024-09-16/</guid>
+  <guid>https://guitar.volumen.ca/posts/2024-09-16/</guid>
   <pubDate>Mon, 16 Sep 2024 22:01:23 GMT</pubDate>
-  <media:content url="https://serhatbe.github.io/thedeepkeel/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitar.volumen.ca/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

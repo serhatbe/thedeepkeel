@@ -1,12 +1,14 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 execute:
   freeze: true
 
 website:
   title: "The Deep Keel"
-  site-url: https://serhatbe.github.io/thedeepkeel
+  site-url: https://guitar.volumen.ca
   description: "Practice with Metronome"
   sidebar:
     style: "docked"
