@@ -1,6 +1,6 @@
 ---
 title: "Week05"
-date: "2025-02-09"
+date: "2025-07-27"
 #date-modified: "2025-02-03"
 format: 
   html: default
@@ -47,13 +47,11 @@ Write and say it out loud:
 
 ## Song Practice
 
-The Cowboy Rides Away by George Straight
+Amazing Grace
 
 ## Video Log
 
-With instructor \@ 85% tempo
-
-{{< video https://youtu.be/TqEsIV3O31w >}}
+{{< video https://youtu.be/J-h3cT97VkM >}}
 
 ## Fender Jaguar
 
@@ -72,13 +70,13 @@ Rate: 25%
 
 ## Fender Blues Jr. III
 
-Volume: 4.0\
+Volume: 6.0\
 Fat: OFF\
-Treble: 4.5\
-Bass: 7.0\
-Middle: 5.0\
-Master: 5.0\
-Reverb: 2.5
+Treble: 2.0\
+Bass: 4.0\
+Middle: 4.0\
+Master: 2.0\
+Reverb: 3.5
 
 ## Blue Yeti
 
