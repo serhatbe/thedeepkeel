@@ -29,7 +29,7 @@ Economy of motion!
 
 Write and say it out loud:
 
-[C]{.underline} C#Db [D]{.underline} D#Eb [E]{.underline} [F]{.underline} F#Gb [G]{.underline} G#Ab [A]{.underline} A#Bb [B]{.underline}
+[**C**]{.underline} C#Db [**D**]{.underline} D#Eb [**E**]{.underline} [**F**]{.underline} F#Gb [**G**]{.underline} G#Ab [**A**]{.underline} A#Bb [**B**]{.underline}
 
 ## Cmaj Scale
 
