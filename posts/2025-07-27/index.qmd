@@ -1,7 +1,7 @@
 ---
 title: "Week05"
 date: "2025-07-27"
-#date-modified: "2025-02-03"
+date-modified: "2025-07-29"
 format: 
   html: default
 image: "../img/jag.jpg"
