@@ -51,6 +51,8 @@ Amazing Grace
 
 ## Video Log
 
+{{< video https://youtu.be/-wVN2uIcsNQ >}}
+
 {{< video https://youtu.be/B6TVfkmcBLA?si=5dAyTPj6LXRQzXVb >}}
 
 {{< video https://youtu.be/J-h3cT97VkM >}}
