@@ -1,7 +1,7 @@
 ---
-title: "Week05"
-date: "2025-07-30"
-#date-modified: "2025-07-30"
+title: "Week06"
+date: "2025-08-03"
+#date-modified: "2025-07-29"
 format: 
   html: default
 image: "../img/strat.jpg"
@@ -33,27 +33,24 @@ Write and say it out loud:
 
 ## Cmaj Scale
 
--   Play Cmaj scale up & down, 1 min
+-   Play full Cmaj scale up & down in the first position, 1 min
+-   Improvise over backing track
 
 ## Chord Practice
 
--   **G** Chord, 25 repetitions
+-   **Em** Chord, 25 repetitions
 
--   **Cadd9** Chord, 25 repetitions
+-   **Am** Chord, 25 repetitions
 
--   **Dsus4** Chord, 25 repetitions
-
--   Chord progression, **G → Cadd9 → Dsus4**, 3 min.
+-   Chord progression, **Em → Am**, 3 min.
 
 ## Song Practice
 
-Amazing Grace
+Happy birthday.
 
 ## Video Log
 
-{{< video https://youtu.be/b8bSEizjnkA >}}
-
-{{< video https://youtu.be/IeY8pp9xzAY >}}
+{{< video https://youtu.be/J-h3cT97VkM >}}
 
 ## Fender Stratocaster
 
@@ -87,4 +84,4 @@ Mode: Stereo, on desk near plant
 
 ## Lesson Video
 
-{{< video https://youtu.be/PpW1xR_ko0Q?si=3PIPzxl5z-DAeg6U >}}
+{{< video https://youtu.be/FLORjaPMUwI?si=z8RyNxM_drF57jU8 >}}

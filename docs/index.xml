@@ -10,104 +10,10 @@
 <atom:link href="https://guitar.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Practice with Metronome</description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Wed, 30 Jul 2025 07:00:00 GMT</lastBuildDate>
-<item>
-  <title>Week05</title>
-  <link>https://guitar.volumen.ca/posts/2025-07-27a/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>Tempo: 70 bpm</strong></p>
-<p>Economy of motion!</p>
-<section id="picking-practice" class="level2">
-<h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
-<ul>
-<li><p>Alternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions</p></li>
-<li><p>Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions</p></li>
-<li><p>Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions</p></li>
-</ul>
-</section>
-<section id="chromatic-scale" class="level2">
-<h2 class="anchored" data-anchor-id="chromatic-scale">Chromatic Scale</h2>
-<p>Write and say it out loud:</p>
-<p><u><strong>C</strong></u> C#Db <u><strong>D</strong></u> D#Eb <u><strong>E</strong></u> <u><strong>F</strong></u> F#Gb <u><strong>G</strong></u> G#Ab <u><strong>A</strong></u> A#Bb <u><strong>B</strong></u></p>
-</section>
-<section id="cmaj-scale" class="level2">
-<h2 class="anchored" data-anchor-id="cmaj-scale">Cmaj Scale</h2>
-<ul>
-<li>Play Cmaj scale up &amp; down, 1 min</li>
-</ul>
-</section>
-<section id="chord-practice" class="level2">
-<h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
-<ul>
-<li><p><strong>G</strong> Chord, 25 repetitions</p></li>
-<li><p><strong>Cadd9</strong> Chord, 25 repetitions</p></li>
-<li><p><strong>Dsus4</strong> Chord, 25 repetitions</p></li>
-<li><p>Chord progression, <strong>G → Cadd9 → Dsus4</strong>, 3 min.</p></li>
-</ul>
-</section>
-<section id="song-practice" class="level2">
-<h2 class="anchored" data-anchor-id="song-practice">Song Practice</h2>
-<p>Amazing Grace</p>
-</section>
-<section id="video-log" class="level2">
-<h2 class="anchored" data-anchor-id="video-log">Video Log</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/b8bSEizjnkA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/IeY8pp9xzAY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fender-stratocaster" class="level2">
-<h2 class="anchored" data-anchor-id="fender-stratocaster">Fender Stratocaster</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: 3<br>
-Master Tone: 5</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>Preset: OFF</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 25%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 5.0<br>
-Bass: 7.0<br>
-Middle: 11.0<br>
-Master: 4.0<br>
-Reverb: 5.0</p>
-</section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
-<p>Gain: 10 o’clock<br>
-Mode: Stereo, on desk near plant</p>
-</section>
-<section id="lesson-video" class="level2">
-<h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PpW1xR_ko0Q?si=3PIPzxl5z-DAeg6U" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2025</category>
-  <category>Stratocaster</category>
-  <category>Practice</category>
-  <category>TGIAY</category>
-  <category>Song</category>
-  <guid>https://guitar.volumen.ca/posts/2025-07-27a/</guid>
-  <pubDate>Wed, 30 Jul 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://guitar.volumen.ca/posts/img/strat.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Sun, 03 Aug 2025 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Week06</title>
-  <link>https://guitar.volumen.ca/posts/2025-07-30/</link>
+  <link>https://guitar.volumen.ca/posts/2025-08-03/</link>
   <description><![CDATA[ 
 
 
@@ -154,7 +60,7 @@ Mode: Stereo, on desk near plant</p>
 <section id="fender-stratocaster" class="level2">
 <h2 class="anchored" data-anchor-id="fender-stratocaster">Fender Stratocaster</h2>
 <p>Pickup Position: Neck<br>
-Master Volume: 9<br>
+Master Volume: 3<br>
 Master Tone: 5</p>
 </section>
 <section id="zoom-g3xn" class="level2">
@@ -168,13 +74,13 @@ Rate: 25%</p>
 </section>
 <section id="fender-blues-jr.-iii" class="level2">
 <h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 6.0<br>
+<p>Volume: 8.0<br>
 Fat: OFF<br>
-Treble: 2.0<br>
-Bass: 4.0<br>
-Middle: 4.0<br>
-Master: 2.0<br>
-Reverb: 3.5</p>
+Treble: 5.0<br>
+Bass: 7.0<br>
+Middle: 11.0<br>
+Master: 4.0<br>
+Reverb: 5.0</p>
 </section>
 <section id="blue-yeti" class="level2">
 <h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
@@ -184,6 +90,101 @@ Mode: Stereo, on desk near plant</p>
 <section id="lesson-video" class="level2">
 <h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/FLORjaPMUwI?si=z8RyNxM_drF57jU8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2025</category>
+  <category>Stratocaster</category>
+  <category>Practice</category>
+  <category>TGIAY</category>
+  <category>Song</category>
+  <guid>https://guitar.volumen.ca/posts/2025-08-03/</guid>
+  <pubDate>Sun, 03 Aug 2025 07:00:00 GMT</pubDate>
+  <media:content url="https://guitar.volumen.ca/posts/img/strat.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Week05</title>
+  <link>https://guitar.volumen.ca/posts/2025-07-30/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Tempo: 70 bpm</strong></p>
+<p>Economy of motion!</p>
+<section id="picking-practice" class="level2">
+<h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
+<ul>
+<li><p>Alternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions</p></li>
+<li><p>Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions</p></li>
+</ul>
+</section>
+<section id="chromatic-scale" class="level2">
+<h2 class="anchored" data-anchor-id="chromatic-scale">Chromatic Scale</h2>
+<p>Write and say it out loud:</p>
+<p><u><strong>C</strong></u> C#Db <u><strong>D</strong></u> D#Eb <u><strong>E</strong></u> <u><strong>F</strong></u> F#Gb <u><strong>G</strong></u> G#Ab <u><strong>A</strong></u> A#Bb <u><strong>B</strong></u></p>
+</section>
+<section id="cmaj-scale" class="level2">
+<h2 class="anchored" data-anchor-id="cmaj-scale">Cmaj Scale</h2>
+<ul>
+<li>Play Cmaj scale up &amp; down, 1 min</li>
+</ul>
+</section>
+<section id="chord-practice" class="level2">
+<h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
+<ul>
+<li><p><strong>G</strong> Chord, 25 repetitions</p></li>
+<li><p><strong>Cadd9</strong> Chord, 25 repetitions</p></li>
+<li><p><strong>Dsus4</strong> Chord, 25 repetitions</p></li>
+<li><p>Chord progression, <strong>G → Cadd9 → Dsus4</strong>, 3 min.</p></li>
+</ul>
+</section>
+<section id="song-practice" class="level2">
+<h2 class="anchored" data-anchor-id="song-practice">Song Practice</h2>
+<p>Amazing Grace</p>
+</section>
+<section id="video-log" class="level2">
+<h2 class="anchored" data-anchor-id="video-log">Video Log</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/CDuHlzcnWeI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/b8bSEizjnkA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/IeY8pp9xzAY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-stratocaster" class="level2">
+<h2 class="anchored" data-anchor-id="fender-stratocaster">Fender Stratocaster</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: 3<br>
+Master Tone: 5</p>
+</section>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>Preset: OFF</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 25%<br>
+Rate: 25%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 5.0<br>
+Bass: 7.0<br>
+Middle: 11.0<br>
+Master: 4.0<br>
+Reverb: 5.0</p>
+</section>
+<section id="blue-yeti" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<p>Gain: 10 o’clock<br>
+Mode: Stereo, on desk near plant</p>
+</section>
+<section id="lesson-video" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PpW1xR_ko0Q?si=3PIPzxl5z-DAeg6U" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 </section>
