@@ -13,17 +13,51 @@ categories:
   - Song
 ---
 
-**Tempo: 70 bpm**
+## C Major Scale Degrees
 
-Economy of motion!
+| Scale Degree | Name         | Note | Function                          |
+|--------------|--------------|------|-----------------------------------|
+| 1            | Tonic        | C    | Home note, point of resolution    |
+| 2            | Supertonic   | D    | Pre-dominant, leads to dominant   |
+| 3            | Mediant      | E    | Connects tonic and dominant       |
+| 4            | Subdominant  | F    | Prepares the dominant             |
+| 5            | Dominant     | G    | Strong tension, resolves to tonic |
+| 6            | Submediant   | A    | Relative minor's tonic            |
+| 7            | Leading Tone | B    | Leads strongly to the tonic       |
+
+These scale degrees form the backbone of Western tonal music. For example:
+
+-   The tonic (C) is your tonal center.
+
+-   The dominant (G) strongly wants to resolve back to the tonic.
+
+-   The leading tone (B) is one semitone below the tonic and “leads” to it melodically.
+
+-   A major third = 4 semitones (or 2 whole steps).
+
+-   It’s called a “third” because it spans three letter names (like C to E).
+
+-   It’s called “major” because it’s the larger of the two commonly used thirds (major vs minor).
+
+To play a major third interval:
+
+-   From a note on the 6th string, move 4 frets up on the same string, or
+
+-   Move 1 string down and 1 fret back (e.g., 5th fret 6th string to 4th fret 5th string)
+
+In Chords:
+
+-   A major chord is built from the root + major third + perfect fifth. Example: C major = C (root) + E (major third) + G (perfect fifth)
+
+-   A minor chord uses a minor third (3 semitones) instead.
 
 ## Picking Practice
 
--   Alternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions
+-   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 2 min
 
--   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions
+-   Alternate picking, fingers 1-3-2-4, from E to e string, 2 min
 
--   Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions
+-   Alternate picking, fingers 4-2-3-1, from E to e string, 2 min
 
 ## Chromatic Scale
 
@@ -34,13 +68,14 @@ Write and say it out loud:
 ## Cmaj Scale
 
 -   Play full Cmaj scale up & down in the first position, 1 min
+
 -   Improvise over backing track
 
 ## Chord Practice
 
--   **Em** Chord, 25 repetitions
+-   **Em** Chord, 2 min
 
--   **Am** Chord, 25 repetitions
+-   **Am** Chord, 2 min
 
 -   Chord progression, **Em → Am**, 3 min.
 
@@ -50,7 +85,9 @@ Happy birthday.
 
 ## Video Log
 
-{{< video https://youtu.be/J-h3cT97VkM >}}
+{{< video https://youtu.be/wpMERngKemQ >}}
+
+{{< video https://youtu.be/P9Pc5xMcXJI >}}
 
 ## Fender Stratocaster
 
@@ -85,3 +122,7 @@ Mode: Stereo, on desk near plant
 ## Lesson Video
 
 {{< video https://youtu.be/FLORjaPMUwI?si=z8RyNxM_drF57jU8 >}}
+
+## Backing Track
+
+{{< video https://youtu.be/fyqSZfOxwlI?si=ovFglWd2qyRF21bZ >}}

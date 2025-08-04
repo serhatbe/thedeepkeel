@@ -5465,14 +5465,14 @@
     "href": "posts/2025-08-03/index.html",
     "title": "Week06",
     "section": "",
-    "text": "Tempo: 70 bpm\nEconomy of motion!"
+    "text": "Scale Degree\nName\nNote\nFunction\n\n\n\n\n1\nTonic\nC\nHome note, point of resolution\n\n\n2\nSupertonic\nD\nPre-dominant, leads to dominant\n\n\n3\nMediant\nE\nConnects tonic and dominant\n\n\n4\nSubdominant\nF\nPrepares the dominant\n\n\n5\nDominant\nG\nStrong tension, resolves to tonic\n\n\n6\nSubmediant\nA\nRelative minor’s tonic\n\n\n7\nLeading Tone\nB\nLeads strongly to the tonic\n\n\n\nThese scale degrees form the backbone of Western tonal music. For example:\n\nThe tonic (C) is your tonal center.\nThe dominant (G) strongly wants to resolve back to the tonic.\nThe leading tone (B) is one semitone below the tonic and “leads” to it melodically.\nA major third = 4 semitones (or 2 whole steps).\nIt’s called a “third” because it spans three letter names (like C to E).\nIt’s called “major” because it’s the larger of the two commonly used thirds (major vs minor).\n\nTo play a major third interval:\n\nFrom a note on the 6th string, move 4 frets up on the same string, or\nMove 1 string down and 1 fret back (e.g., 5th fret 6th string to 4th fret 5th string)\n\nIn Chords:\n\nA major chord is built from the root + major third + perfect fifth. Example: C major = C (root) + E (major third) + G (perfect fifth)\nA minor chord uses a minor third (3 semitones) instead."
   },
   {
     "objectID": "posts/2025-08-03/index.html#picking-practice",
     "href": "posts/2025-08-03/index.html#picking-practice",
     "title": "Week06",
     "section": "Picking Practice",
-    "text": "Picking Practice\n\nAlternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions\nAlternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions\nAlternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions"
+    "text": "Picking Practice\n\nAlternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 2 min\nAlternate picking, fingers 1-3-2-4, from E to e string, 2 min\nAlternate picking, fingers 4-2-3-1, from E to e string, 2 min"
   },
   {
     "objectID": "posts/2025-08-03/index.html#chromatic-scale",
@@ -5493,7 +5493,7 @@
     "href": "posts/2025-08-03/index.html#chord-practice",
     "title": "Week06",
     "section": "Chord Practice",
-    "text": "Chord Practice\n\nEm Chord, 25 repetitions\nAm Chord, 25 repetitions\nChord progression, Em → Am, 3 min."
+    "text": "Chord Practice\n\nEm Chord, 2 min\nAm Chord, 2 min\nChord progression, Em → Am, 3 min."
   },
   {
     "objectID": "posts/2025-08-03/index.html#song-practice",
@@ -5550,5 +5550,26 @@
     "title": "Week06",
     "section": "Lesson Video",
     "text": "Lesson Video"
+  },
+  {
+    "objectID": "posts/2025-08-03/index.html#backin-track",
+    "href": "posts/2025-08-03/index.html#backin-track",
+    "title": "Week06",
+    "section": "Backin Track",
+    "text": "Backin Track"
+  },
+  {
+    "objectID": "posts/2025-08-03/index.html#backing-track",
+    "href": "posts/2025-08-03/index.html#backing-track",
+    "title": "Week06",
+    "section": "Backing Track",
+    "text": "Backing Track"
+  },
+  {
+    "objectID": "posts/2025-08-03/index.html#c-major-scale-degrees",
+    "href": "posts/2025-08-03/index.html#c-major-scale-degrees",
+    "title": "Week06",
+    "section": "",
+    "text": "Scale Degree\nName\nNote\nFunction\n\n\n\n\n1\nTonic\nC\nHome note, point of resolution\n\n\n2\nSupertonic\nD\nPre-dominant, leads to dominant\n\n\n3\nMediant\nE\nConnects tonic and dominant\n\n\n4\nSubdominant\nF\nPrepares the dominant\n\n\n5\nDominant\nG\nStrong tension, resolves to tonic\n\n\n6\nSubmediant\nA\nRelative minor’s tonic\n\n\n7\nLeading Tone\nB\nLeads strongly to the tonic\n\n\n\nThese scale degrees form the backbone of Western tonal music. For example:\n\nThe tonic (C) is your tonal center.\nThe dominant (G) strongly wants to resolve back to the tonic.\nThe leading tone (B) is one semitone below the tonic and “leads” to it melodically.\nA major third = 4 semitones (or 2 whole steps).\nIt’s called a “third” because it spans three letter names (like C to E).\nIt’s called “major” because it’s the larger of the two commonly used thirds (major vs minor).\n\nTo play a major third interval:\n\nFrom a note on the 6th string, move 4 frets up on the same string, or\nMove 1 string down and 1 fret back (e.g., 5th fret 6th string to 4th fret 5th string)\n\nIn Chords:\n\nA major chord is built from the root + major third + perfect fifth. Example: C major = C (root) + E (major third) + G (perfect fifth)\nA minor chord uses a minor third (3 semitones) instead."
   }
 ]
