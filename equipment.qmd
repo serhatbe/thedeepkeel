@@ -380,6 +380,23 @@ Button\
 
 **Case/Gig Bag:** Deluxe Gig Bag
 
+### Amp Settings
+
+#### Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 11.0\
+Master: 4.0\
+Reverb: 2.0
+
+#### Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
 ## Fender Jaguar
 
 ![Fender Jaguar](posts/img/jaguar_hh0.jpeg)
