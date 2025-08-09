@@ -22,40 +22,43 @@
 <section id="picking-practice" class="level2">
 <h2 class="anchored" data-anchor-id="picking-practice">Picking Practice</h2>
 <ul>
+<li><p>70 bpm</p></li>
 <li><p>Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 1 min</p></li>
 <li><p>Alternate picking, fingers 1-3-2-4, from E to e string, 1 min</p></li>
 <li><p>Alternate picking, fingers 4-2-3-1, from E to e string, 1 min</p></li>
-<li><p>Arpegiation</p></li>
-<li><p>Strumming pattern: D, DU, UDU (1 - 2&amp; - &amp;4&amp;)</p></li>
+<li><p>Arpeggiation: 2 min each.</p>
+<ul>
+<li><p>E↓ G↓ B↓ G↑ D↓ G↑</p></li>
+<li><p>C↓ G↓ B↓ G↑ D↓ G↑</p></li>
+<li><p>D↓ G↓ B↓ G↑ D↓ G↑</p></li>
+</ul></li>
+<li><p>Strumming pattern: D, DU, UDU (1 - 2&amp; - &amp;4&amp;) 3 min</p></li>
 </ul>
 </section>
-<section id="chromatic-scale" class="level2">
-<h2 class="anchored" data-anchor-id="chromatic-scale">Chromatic Scale</h2>
+<section id="cycle-of-fourths" class="level2">
+<h2 class="anchored" data-anchor-id="cycle-of-fourths">Cycle of Fourths</h2>
 <p>Write and say it out loud:</p>
-<p><u><strong>C</strong></u> C#Db <u><strong>D</strong></u> D#Eb <u><strong>E</strong></u> <u><strong>F</strong></u> F#Gb <u><strong>G</strong></u> G#Ab <u><strong>A</strong></u> A#Bb <u><strong>B</strong></u></p>
+<pre><code>C - F - Bb - Eb - Ab - Db - F# - B - E - A - D - G</code></pre>
 </section>
-<section id="cmaj-scale" class="level2">
-<h2 class="anchored" data-anchor-id="cmaj-scale">Cmaj Scale</h2>
-<pre><code>C – D – E – F – G – A – B – C</code></pre>
+<section id="cycle-of-fourths-on-e-string" class="level2">
+<h2 class="anchored" data-anchor-id="cycle-of-fourths-on-e-string">Cycle of Fourths on E String</h2>
+<pre><code>8 - 1 - 6 - 11 - 4 - 9 - 2 - 7 - 12 - 5 - 10 - 3</code></pre>
 <ul>
-<li><p>Play full Cmaj scale up &amp; down in the first position, 1 min</p></li>
-<li><p>Improvise over backing track</p></li>
+<li><p>Start with 2 notes ( C - F), then 1 - 3 (C - F - Bb), then 1 - 4, and so on.</p></li>
+<li><p>Play full cycle of fourths, 40 bpm - 70 bpm, 2 min,</p></li>
 </ul>
 </section>
 <section id="chord-practice" class="level2">
 <h2 class="anchored" data-anchor-id="chord-practice">Chord Practice</h2>
 <ul>
-<li><p><strong>G</strong> Chord, 2 min</p></li>
-<li><p><strong>Cadd9</strong> Chord, 2 min</p></li>
-<li><p><strong>Dsus4</strong> Chord, 2 min</p></li>
-<li><p><strong>Em</strong> Chord, 2 min</p></li>
 <li><p>Chord progression, <strong>G → G → Cadd9 → Dsus4</strong>, 1 min.</p></li>
-<li><p>Chord progression, <strong>G → G → Cadd9 → Em</strong>, 1 min.</p></li>
 <li><p>Chord progression, <strong>Em → Dsus4 → Cadd9 → G</strong>, 1 min.</p></li>
-<li><p>Chord progression, <strong>Em → G → Em → G</strong>, 1 min.</p></li>
-<li><h2 id="song-practice" class="anchored">Song Practice</h2></li>
+<li><p>Chord progression, <strong>Em → G → Em → G → Em → Dsus4</strong> <strong>→</strong> <strong>G → G → Cadd9 → Dsus4</strong> <strong>→ G,</strong> 1 min.</p></li>
 </ul>
-<p>Good Riddence (Time of Your Life) by Green Day</p>
+</section>
+<section id="song-practice" class="level2">
+<h2 class="anchored" data-anchor-id="song-practice">Song Practice</h2>
+<p>Good Riddance (Time of Your Life) by Green Day</p>
 </section>
 <section id="video-log" class="level2">
 <h2 class="anchored" data-anchor-id="video-log">Video Log</h2>
@@ -96,10 +99,9 @@ Mode: Stereo, on desk near plant</p>
 <h2 class="anchored" data-anchor-id="lesson-video">Lesson Video</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/tH_Hh5c_Jo8?si=7iEWY-k8nvMcuRpA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="backing-track" class="level2">
-<h2 class="anchored" data-anchor-id="backing-track">Backing Track</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/JwcCBGqPmwU?si=ZNiTJGUl7w_PYu2i" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/fyqSZfOxwlI?si=ovFglWd2qyRF21bZ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="good-riddance" class="level2">
+<h2 class="anchored" data-anchor-id="good-riddance">Good Riddance</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/CnQ8N1KacJc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 </section>
@@ -1536,65 +1538,6 @@ Mode: Stereo, on desk near plant</p>
   <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Sea to Sea Duet</title>
-  <link>https://guitar.volumen.ca/posts/2024-11-03/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="guitar-2-duet" class="level2">
-<h2 class="anchored" data-anchor-id="guitar-2-duet">Guitar 2 Duet</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3nH_aggIAck" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="gibson-les-paul" class="level2">
-<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
-<p>Pickup Position: Bridge<br>
-Master Volume: 5<br>
-Master Tone: 3</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>Preset: 134 Jazz Fall</p>
-</section>
-<section id="joyo-tremolo-off" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo-off">Joyo Tremolo OFF</h2>
-<p>Intensity: 50%<br>
-Rate: 50%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 8.0<br>
-Fat: OFF<br>
-Treble: 6.5<br>
-Bass: 6.0<br>
-Middle: 6.0<br>
-Master: 4.5<br>
-Reverb: 5.0</p>
-</section>
-<section id="garageband" class="level2">
-<h2 class="anchored" data-anchor-id="garageband">GarageBand</h2>
-<p>Track: Natural Vocal</p>
-<p>Mix: Jazz</p>
-</section>
-<section id="lesson-part-1" class="level2">
-<h2 class="anchored" data-anchor-id="lesson-part-1">Lesson Part 1</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2024</category>
-  <category>Les Paul</category>
-  <category>Study</category>
-  <category>Scales</category>
-  <category>MMG</category>
-  <guid>https://guitar.volumen.ca/posts/2024-11-03/</guid>
-  <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Ex.5-6</title>
   <link>https://guitar.volumen.ca/posts/2024-11-03a/</link>
   <description><![CDATA[ 
@@ -1658,6 +1601,65 @@ Mode: Stereo, on desk near plant</p>
   <category>Scales</category>
   <category>MMG</category>
   <guid>https://guitar.volumen.ca/posts/2024-11-03a/</guid>
+  <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Sea to Sea Duet</title>
+  <link>https://guitar.volumen.ca/posts/2024-11-03/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="guitar-2-duet" class="level2">
+<h2 class="anchored" data-anchor-id="guitar-2-duet">Guitar 2 Duet</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3nH_aggIAck" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="gibson-les-paul" class="level2">
+<h2 class="anchored" data-anchor-id="gibson-les-paul">Gibson Les Paul</h2>
+<p>Pickup Position: Bridge<br>
+Master Volume: 5<br>
+Master Tone: 3</p>
+</section>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>Preset: 134 Jazz Fall</p>
+</section>
+<section id="joyo-tremolo-off" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo-off">Joyo Tremolo OFF</h2>
+<p>Intensity: 50%<br>
+Rate: 50%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 8.0<br>
+Fat: OFF<br>
+Treble: 6.5<br>
+Bass: 6.0<br>
+Middle: 6.0<br>
+Master: 4.5<br>
+Reverb: 5.0</p>
+</section>
+<section id="garageband" class="level2">
+<h2 class="anchored" data-anchor-id="garageband">GarageBand</h2>
+<p>Track: Natural Vocal</p>
+<p>Mix: Jazz</p>
+</section>
+<section id="lesson-part-1" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-part-1">Lesson Part 1</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2024</category>
+  <category>Les Paul</category>
+  <category>Study</category>
+  <category>Scales</category>
+  <category>MMG</category>
+  <guid>https://guitar.volumen.ca/posts/2024-11-03/</guid>
   <pubDate>Sun, 03 Nov 2024 07:00:00 GMT</pubDate>
   <media:content url="https://guitar.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
 </item>
