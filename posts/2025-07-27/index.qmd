@@ -13,7 +13,7 @@ categories:
   - Song
 ---
 
-**Tempo: 70 bpm**
+Tempo: 70 bpm
 
 Economy of motion!
 

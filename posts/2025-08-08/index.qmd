@@ -13,9 +13,9 @@ categories:
   - Song
 ---
 
-## Picking Practice
+Tempo 70 bpm
 
--   70 bpm
+## Picking Practice
 
 -   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 1 min
 
