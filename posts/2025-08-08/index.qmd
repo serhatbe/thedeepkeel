@@ -44,6 +44,20 @@ C - F - Bb - Eb - Ab - Db - F# - B - E - A - D - G
 ## Cycle of Fourths on E String
 
 ```         
+Circle of Fourths — Low E string (starting from C, quarter notes)
+
+E|--8--1--6--11--4--9--2--7--0--5--10--3--8--
+    C  F Bb  Eb  Ab Db Gb  B  E  A   D   G  C
+```
+
+Circle of Fourths — Low E string (starting from C, quarter notes)
+
+E\|--8--1--6--11--4--9--2--7--0--5--10--3--8-- C F Bb Eb Ab Db Gb B E A D G C
+
+```         
+```
+
+```         
 8 - 1 - 6 - 11 - 4 - 9 - 2 - 7 - 12 - 5 - 10 - 3
 ```
 
@@ -65,7 +79,7 @@ Good Riddance (Time of Your Life) by Green Day
 
 ## Video Log
 
-{{< video https://youtu.be/wpMERngKemQ >}}
+{{< video https://youtu.be/tGrnC-pXXNc >}}
 
 {{< video https://youtu.be/P9Pc5xMcXJI >}}
 
