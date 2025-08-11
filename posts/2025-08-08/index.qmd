@@ -47,14 +47,7 @@ C - F - Bb - Eb - Ab - Db - F# - B - E - A - D - G
 Circle of Fourths — Low E string (starting from C, quarter notes)
 
 E|--8--1--6--11--4--9--2--7--0--5--10--3--8--
-    C  F Bb  Eb  Ab Db Gb  B  E  A   D   G  C
-```
-
-Circle of Fourths — Low E string (starting from C, quarter notes)
-
-E\|--8--1--6--11--4--9--2--7--0--5--10--3--8-- C F Bb Eb Ab Db Gb B E A D G C
-
-```         
+    C  F  Bb Eb  Ab Db F# B  E  A   D  G  C
 ```
 
 ```         
