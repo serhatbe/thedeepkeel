@@ -1,7 +1,7 @@
 ---
 title: "Week05"
 date: "2025-07-27"
-date-modified: "2025-07-29"
+date-modified: "2025-08-11"
 format: 
   html: default
 image: "../img/jag.jpg"
@@ -50,6 +50,8 @@ Write and say it out loud:
 Amazing Grace
 
 ## Video Log
+
+{{< video https://youtu.be/yRcJFz7Eo8Q >}}
 
 {{< video https://youtu.be/-wVN2uIcsNQ >}}
 
