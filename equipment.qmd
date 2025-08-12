@@ -61,8 +61,24 @@ Position 4. Middle and Neck Pickup, Position 5. Neck Pickup\
 **Auxiliary Switching:** Mini-Toggle Rear Coil Selector Switch\
 **Neck Plate:** 4-Bolt
 
-**Miscellaneous**\
-**Strings:** Fender® USA, NPS, (.009-.042 Gauges)
+**Miscellaneous** **Strings:** Fender® USA, NPS, (.009-.042 Gauges)
+
+### Amp Settings
+
+#### Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 11.0\
+Master: 4.0\
+Reverb: 2.0
+
+#### Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
 
 ## Fender Mustang I v.2
 
