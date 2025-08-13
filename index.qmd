@@ -3,9 +3,9 @@ title: "Ever So Slowly"
 listing:
   contents: posts
   sort: "date desc"
-  page-size: 3
+  page-size: 5
   type: default #table grid default
-  categories: numbered #numbered unnumbered cloud
+  categories: cloud #numbered unnumbered cloud
   feed: true
   sort-ui: false
   filter-ui: false
