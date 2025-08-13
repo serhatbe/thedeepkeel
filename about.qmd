@@ -5,7 +5,7 @@ bibliography: references.json
 
 ## 2025
 
-> This is the physical part of learning to play the guitar and as such cannot be rushed. Practice all material slowly enough to maintain an even tempo. Do not skip or "slight" anything, and also do not attempt to "completely perfect" any one lesson before going on. Playing technique is an accumulative process and you will find each time you review material already studied it will seem easier to play. (Slow, steady practice and constant review will eventually lead to speed and accuracy.) - @leavitt2020
+> Learning to play the guitar physically requires patience. Practice slowly to maintain an even tempo. Don’t skip or rush anything. Don’t try to perfect each lesson before moving on. Playing technique improves with practice. Reviewing previously studied material will seem easier each time. (Slow, steady practice and constant review will eventually lead to speed and accuracy.) - @leavitt2020
 
 ### Warm-up (10 minutes)
 
