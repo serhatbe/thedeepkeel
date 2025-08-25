@@ -1,0 +1,70 @@
+---
+title: "Review"
+subtitle: "Skills improve with practice"
+date: "2025-08-17T20:37:23"
+date-modified: "2025-08-23T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2025"
+  - Study
+  - Theory
+bibliography: references.json
+---
+
+
+Don’t try to perfect each lesson before moving on. Playing technique improves with practice. Reviewing previously studied material will seem easier each time. Slow, steady practice and constant review will eventually lead to speed and accuracy. @leavitt2020
+
+## Theory
+
+-   C Major Pentatonic Scale
+
+```         
+e|---------------------------5--8-------|
+B|----------------------5--8------------|
+G|-----------------5--7-----------------|
+D|------------5--7----------------------|
+A|-------5--7---------------------------|
+E|--5--8--------------------------------|
+```
+
+-   Cycle of Fourths on E String
+
+```         
+Circle of Fourths — Low E string (starting from C, quarter notes)
+
+E|--8--1--6--11--4--9--2--7--0--5--10--3--8--
+    C  F  Bb Eb  Ab Db F# B  E  A   D  G  C
+```
+
+-   Cmaj Scale: Play full scale up & down in the open position
+
+```         
+C – D – E – F – G – A – B – C
+```
+
+-   Chromatic Scale
+
+```         
+C C#Db D D#Eb E F F#Gb G G#Ab A A#Bb B
+```
+
+## Skill
+
+-   Improvisation
+
+## Repertuar
+
+-   Like a Rolling Stone
+
+-   Blues Sfuffle in A
+
+-   Good Riddance
+
+-   Happy birthday
+
+-   Amazing Grace
+
+-   Cowboy Rides Away

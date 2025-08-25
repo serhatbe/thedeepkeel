@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+execute:
+  freeze: true
+
+website:
+  title: "The Deep Keel"
+  site-url: https://guitars.volumen.ca
+  favicon: favicon.ico
+  description: "Practice with Metronome"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - about.qmd
+      - playlist.qmd
+      - equipment.qmd
+  back-to-top-navigation: true
+  page-footer: 
+    left: 2013-2025 The Deep Keel built with <a href="https://quarto.org"> Quarto {{< version >}}</a>   
+    right:
+      - icon: rss
+        href: index.xml
+    background: light
+
+format:
+  html:
+    toc: true
+    theme: litera #default journal cosmo litera sketchy
+    css: styles.css
+
+date-format: full
+editor: visual
+

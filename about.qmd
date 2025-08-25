@@ -1,0 +1,108 @@
+---
+title: "About"
+bibliography: references.json
+---
+
+## 2025
+
+Practice with discipline, but without friction, maintaining a calm and steady approach. Take each step deliberately to enter the flow state where progress unfolds. Though progress is not the goal, it arises as a consequence of unintended outcomes. This is the ultimate state of mind, the one that brings true contentment.
+
+> Learning to play the guitar physically requires patience. Practice slowly to maintain an even tempo. Don’t skip or rush anything. Don’t try to perfect each lesson before moving on. Playing technique improves with practice. Reviewing previously studied material will seem easier each time. (Slow, steady practice and constant review will eventually lead to speed and accuracy.) - @leavitt2020
+
+Here are strategies for electric guitar, jazz improvisation, and performance anxiety, tailored to address physical and mental emotional tension while aligning with the practice philosophy.
+
+### Physical Techniques
+
+Physical Techniques to Minimize Tension:
+
+-   Optimize posture and hand positioning. Sit or stand with a straight back, relaxed shoulders, and the guitar comfortably positioned. Hold the pick lightly, keep your fretting hand relaxed, and avoid strain. Practice in front of a mirror to check for tension.
+
+-   Gradually warm up with 5–10 minutes of slow exercises, such as pentatonic or modal scales, played at 60 BPM with a metronome. Focus on light string pressure to minimize hand fatigue.
+
+-   Take micro-breaks every 15 minutes to shake out your hands, roll your shoulders, or stretch your fingers. This prevents tension during extended practice.
+
+-   Use lighter gauge strings (e.g., .009–.042) to reduce finger strain, especially for bending or fast single-note lines common in jazz. Adjust your amp’s tone to compensate for any loss in warmth.
+
+### Mental Strategies
+
+Mental Strategies to Reduce Performance Anxiety and Support Theory/Improvisation:
+
+-   Practice mindfully, focusing on the sound and feel of each note or chord during practice. Concentrate on the texture of each chord voicing or the flow of an improvised line, rather than worrying about mistakes. This aligns with the “calm and steady approach” and helps enter a flow state.
+
+-   To master music theory, gradually practice complex concepts like modal interchange or altered dominants. For instance, isolate the Mixolydian mode for a G7 chord and improvise over it with a backing track. This aligns with the emphasis on deliberate steps to build confidence. Before practicing or performing, visualize playing a jazz standard with ease and confidence. Imagine enjoying the music and feeling relaxed, reducing anxiety and fostering a flow state.
+
+-   To combat performance anxiety, record yourself playing short improvisations or theory exercises and review without judgment. Gradually progress to playing for a trusted friend or teacher. This gradual exposure desensitizes you to performance pressure. Structure your practice to balance technique, theory, and improvisation. For example, practice chromatic exercises or arpeggios to build dexterity without tension.
+
+-   Theory (10 minutes): Study chord substitutions like tritone substitutions for V7 chords and apply them to a standard like "All the Things You Are."
+
+-   Improvisation (15 minutes): Improvise over a backing track (e.g., a ii-V-I in C) starting slowly and focusing on melodic ideas.
+
+-   Practice Slowly with a Metronome: When learning complex jazz phrases or scales, start at a slow tempo (e.g., 50 BPM) to ensure precision and relaxation. Gradually increase speed only when tension-free, supporting deliberate steps to a flow state.
+
+-   Improvise with Constraints: Set creative constraints like improvising with only three notes or a single scale (e.g., C Lydian) to enter a flow state and reduce mental overload.
+
+-   Jam with Backing Tracks or Peers: Play along with jazz backing tracks or collaborate with others to simulate a low-pressure performance environment. Focus on the music’s flow rather than perfection, reducing anxiety and fostering contentment.
+
+### Emotional Strategies
+
+Emotional Strategies to Evoke Contentment and Manage Anxiety:
+
+-   Focus on the joy of jazz: explore harmonic and rhythmic possibilities, like crafting a soulful solo or discovering a new chord voicing. This aligns with the text’s focus on contentment, reducing performance pressure.
+
+-   Reframe performance anxiety: view nervous energy as excitement, not fear. Remember, the goal is to share music, not perfection. This mindset shift reduces emotional friction and supports the text’s philosophy.
+
+-   Celebrate small wins non-judgmentally: acknowledge progress without fixating on it. This reflects the text’s idea that progress is a byproduct, not the primary goal.
+
+-   End with free improvisation: conclude practice with 5 minutes of natural improvisation, free from theory or structure. This fosters contentment and reduces anxiety.
+
+### Holistic Practices 
+
+Holistic practices to support tension-free practice:
+
+-   Breathing exercises for anxiety: practice diaphragmatic breathing before and during practice to calm your nervous system. This is especially helpful before performances to reduce anxiety and align with a “calm and steady approach.”
+
+-   Mindfulness or meditation: spend 5 minutes meditating before practice, focusing on your breath or visualizing a relaxed performance. Apps like Calm or guided exercises for musicians can help, supporting the flow state and reducing mental tension.
+
+-   Physical maintenance: incorporate daily stretches for hands, wrists, and shoulders (e.g., yoga poses like wrist circles or shoulder rolls) to prevent physical tension, especially given the repetitive motions in guitar playing. Adequate sleep and hydration also support relaxation.
+
+-   Seek constructive feedback: work with a jazz instructor or mentor to refine your improvisation and theory application, but request feedback that emphasizes growth over criticism. This reduces emotional friction and builds confidence.
+
+## 2024
+
+Following are the guidelines for 2024, from @denk2022
+
+-   Practice phrasing.
+
+-   Don't be a perfectionist, it's a deadly weakness.
+
+-   Get the mechanics of performing right by way of **correct posture, fingering and breathing**.
+
+-   **Learn to practice right:** Mechanics, play with your brain and discover meaning in the music you play.
+
+-   Listen and learn pieces well enough to describe it in your own words, use metaphors like the master [György Sebők](https://en.wikipedia.org/wiki/György_Sebők) did. When you perform the music, let your metaphors guide you.
+
+-   Harmony and melody are sacred but rhythm is where you can exercise your freedom.
+
+-   If a note is wrong, you're only one fret away from it, just shift your finger, and you've arrived at the right note.
+
+-   Emulate [Paul Desmond](https://en.wikipedia.org/wiki/Paul_Desmond)'s sound: a light, melodic tone on the alto saxophone, **like a dry martini**.
+
+## 2023
+
+> Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow. - Kurt Vonnegut
+
+-   Eliminate or minimize distraction.
+
+-   Consolidate songs and add music to next album "... from Hokkaido to Okinawa..."
+
+-   Practice diligently and relaxed.
+
+-   Use metronome.
+
+-   Strive for good tone.
+
+-   Improve technique.
+
+-   Learn standard music notation.
+
+-   The ultimate goal: To make good music at every stage of your development.

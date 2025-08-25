@@ -1,0 +1,73 @@
+---
+title: "Title Here"
+date: "2023-07-10T20:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2024"
+  - Telecaster
+  - Stratocaster
+  - Les Paul
+  - Jaguar
+  - Fingerstyle
+  - Hybrid picking
+  - Song
+  - Study
+  - Chord melody
+---
+
+Tempo: free bpm\
+Measures: 1-8
+
+## Video
+
+{{< video https://youtu.be/wo9vZccmqwc >}}
+
+## Fender Stratocaster
+
+Pickup Position: Neck\
+Master Volume: \~6\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Master Volume: 100\
+Compressor: 5, Fast, 5, 70 ON\
+Slab Back Delay: 20, 50, 50, Quarter note\
+Tremolo: Tube, 30, 50, 80 OFF
+
+or
+
+Preset 145: Archtop
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.5\
+Master: 3.0\
+Reverb: 5.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 11 o'clock\
+Mode: Omnidirectional, on desk near plant
+
+## **GarageBand**
+
+Track Preset: WhiteXmasTrack\
+Master Preset: WhiteXmas
