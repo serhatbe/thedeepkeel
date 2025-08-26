@@ -1,7 +1,8 @@
 ---
 title: "Title Here"
-date: "2023-07-10T20:37:23"
-#date-modified: "2023-07-10T20:37:23"
+subtitle: "Like a Rolling Stone"
+date: "2025-07-10T20:37:23"
+#date-modified: "2025-07-10T20:37:23"
 #draft: true
 format: 
   html: default
@@ -10,7 +11,7 @@ image: "../img/jag.jpg"
 # image: "../img/strat.jpg"
 # image: "../img/tele.jpg"
 categories:
-  - "2024"
+  - "2025"
   - Telecaster
   - Stratocaster
   - Les Paul
@@ -29,7 +30,7 @@ Measures: 1-8
 
 {{< video https://youtu.be/wo9vZccmqwc >}}
 
-## Fender Stratocaster
+## Fender Jaguar
 
 Pickup Position: Neck\
 Master Volume: \~6\
