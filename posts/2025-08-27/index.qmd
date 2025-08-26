@@ -152,7 +152,9 @@ E|--x--------x---------|
     -   *“One sound I enjoyed today was…”*
     -   *“Next week I’ll explore more of…”*
 
-## Video Log
+## Recorded Performance
+
+{{< video https://youtu.be/U6nilIZM2jw >}}
 
 ## Fender Les Paul
 
